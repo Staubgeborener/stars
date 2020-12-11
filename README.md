@@ -175,6 +175,8 @@
 
 ## Python 
 
+- [fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
+- [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
 - [pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 - [socialbrute](https://github.com/5h4d0wb0y/socialbrute) - It attempts to crack social networks using a brute force dictionary attack.
