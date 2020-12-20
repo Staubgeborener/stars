@@ -39,6 +39,7 @@
 
 ## C 
 
+- [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
@@ -62,6 +63,7 @@
 
 ## C++ 
 
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
@@ -115,6 +117,7 @@
 
 ## HTML 
 
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [WIFI-Standard-Password-Calculator](https://github.com/valplusplusle/WIFI-Standard-Password-Calculator) - bash code to calculate the standard passwords from your ISP router
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
@@ -125,6 +128,8 @@
 
 ## JavaScript 
 
+- [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
 - [homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -154,6 +159,7 @@
 
 ## Others 
 
+- [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [nanodesu-xfwm4](https://github.com/tdloi/nanodesu-xfwm4) - Window title bar button for xfce4
 - [password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
@@ -175,6 +181,7 @@
 
 ## Python 
 
+- [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
 - [fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
@@ -208,7 +215,7 @@
 ## Shell 
 
 - [nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
