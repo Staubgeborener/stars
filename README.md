@@ -78,7 +78,7 @@
 - [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [jled](https://github.com/jandelgado/jled) - Non-blocking LED controlling library for Arduino and friends.
-- [machinery](https://github.com/kerberos-io/machinery) - An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
+- [machinery](https://github.com/kerberos-io/machinery) - (DEPRECATED) An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
 - [ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot) - Telegram Bot Library for ESP8266 on Arduino IDE
 - [WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
@@ -210,11 +210,12 @@
 
 ## Rust 
 
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 
 ## Shell 
 
+- [docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
 - [nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
