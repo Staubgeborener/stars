@@ -27,6 +27,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -64,6 +65,7 @@
 
 ## C++ 
 
+- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
@@ -129,6 +131,7 @@
 
 ## JavaScript 
 
+- [homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
 - [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
@@ -182,6 +185,7 @@
 
 ## Python 
 
+- [tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
 - [fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
@@ -208,6 +212,10 @@
 
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
+## Ruby 
+
+- [aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
+
 ## Rust 
 
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -215,6 +223,7 @@
 
 ## Shell 
 
+- [docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
 - [docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
 - [nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
