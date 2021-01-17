@@ -16,6 +16,7 @@
   - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -118,6 +119,10 @@
 - [dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
+## HCL 
+
+- [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+
 ## HTML 
 
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -126,6 +131,7 @@
 
 ## Java 
 
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 
