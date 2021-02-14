@@ -31,7 +31,6 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
-  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
 
@@ -127,6 +126,7 @@
 
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [WIFI-Standard-Password-Calculator](https://github.com/valplusplusle/WIFI-Standard-Password-Calculator) - bash code to calculate the standard passwords from your ISP router
+- [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
 ## Java 
@@ -137,12 +137,12 @@
 
 ## JavaScript 
 
+- [tracespace](https://github.com/tracespace/tracespace) - ⚡️generate beautiful and accurate SVG renders of printed circuit boards
 - [homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
 - [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
 - [homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
-- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [node-red-contrib-deconz](https://github.com/andreypopov/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
 - [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
 - [node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
@@ -249,10 +249,6 @@
 - [raspberrypi-ua-netinst](https://github.com/FooDeas/raspberrypi-ua-netinst) - RaspberryPi (minimal) unattended netinstaller
 - [raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
 
-## Swift 
-
-- [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-
 ## TeX 
 
 - [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
@@ -260,6 +256,7 @@
 ## TypeScript 
 
 - [plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
+- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [homebridge-philips-android-tv](https://github.com/konradknitter/homebridge-philips-android-tv) - Homebridge module for the Philips Android TV
 - [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
 - [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
