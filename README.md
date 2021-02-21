@@ -143,7 +143,7 @@
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
 - [homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
-- [node-red-contrib-deconz](https://github.com/andreypopov/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
+- [node-red-contrib-deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
 - [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
 - [node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
 - [node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
@@ -236,7 +236,7 @@
 - [docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
 - [docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
 - [nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
