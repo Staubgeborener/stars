@@ -12,7 +12,6 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
-  - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -101,10 +100,6 @@
 
 - [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 
-## Dockerfile 
-
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
-
 ## Eagle 
 
 - [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.
@@ -115,6 +110,7 @@
 
 ## Go 
 
+- [sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
@@ -160,6 +156,7 @@
 
 ## Lua 
 
+- [titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [material-awesome](https://github.com/ChrisTitusTech/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 
 ## Makefile 
@@ -169,6 +166,7 @@
 
 ## Others 
 
+- [EggBot](https://github.com/ProbotXYZ/EggBot) - 3d printed budget Egg Painter (eggbot MOD)
 - [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [nanodesu-xfwm4](https://github.com/tdloi/nanodesu-xfwm4) - Window title bar button for xfce4
@@ -192,7 +190,6 @@
 
 ## Python 
 
-- [sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
@@ -242,6 +239,7 @@
 - [manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [rkhunter](https://github.com/installation/rkhunter) - Rootkit Hunter install script
 - [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
 - [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
