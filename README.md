@@ -53,7 +53,6 @@
 - [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
 - [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 - [bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
-- [blog](https://github.com/lpodkalicki/blog) - A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.
 
 ## C# # 
 
@@ -85,6 +84,7 @@
 - [ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
 - [esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
 - [ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
+- [blog](https://github.com/lpodkalicki/blog) - A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.
 
 ## CSS 
 
@@ -239,7 +239,7 @@
 - [manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [rkhunter](https://github.com/installation/rkhunter) - Rootkit Hunter install script
 - [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
 - [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
