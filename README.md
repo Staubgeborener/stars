@@ -35,229 +35,229 @@
 
 ## Arduino 
 
-- [ESP8266Tweet](https://github.com/soramimi/ESP8266Tweet) - Twitter client for ESP8266
+- [soramimi/ESP8266Tweet](https://github.com/soramimi/ESP8266Tweet) - Twitter client for ESP8266
 
 ## C 
 
-- [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
-- [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-- [ATtiny13-Plant](https://github.com/dimecho/ATtiny13-Plant) - Monitor soil moisture and water plant.
-- [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-- [SpectrePoC](https://github.com/crozone/SpectrePoC) - Proof of concept code for the Spectre CPU exploit.
-- [esp32-80211-tx](https://github.com/Jeija/esp32-80211-tx) - Send arbitrary IEEE 802.11 frames with Espressif's ESP32
-- [Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
-- [libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
-- [moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) - Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
-- [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
-- [u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
-- [bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+- [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
+- [ejurgensen/forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [dimecho/ATtiny13-Plant](https://github.com/dimecho/ATtiny13-Plant) - Monitor soil moisture and water plant.
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [crozone/SpectrePoC](https://github.com/crozone/SpectrePoC) - Proof of concept code for the Spectre CPU exploit.
+- [Jeija/esp32-80211-tx](https://github.com/Jeija/esp32-80211-tx) - Send arbitrary IEEE 802.11 frames with Espressif's ESP32
+- [devio/Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
+- [libyal/libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
+- [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) - Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
+- [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
+- [SHA2017-badge/bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
 
 ## C# # 
 
-- [Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
-- [HyperionScreenCap](https://github.com/RickDB/HyperionScreenCap) - Screen capture program for Hyperion ambilight
-- [iTunesRichPresence](https://github.com/nint8835/iTunesRichPresence) - Bring iTunes now playing information to Discord using Rich Presence
-- [SerialMonitor](https://github.com/psyrax/SerialMonitor) - Send performance data and control media to an arduino micro.
+- [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
+- [RickDB/HyperionScreenCap](https://github.com/RickDB/HyperionScreenCap) - Screen capture program for Hyperion ambilight
+- [nint8835/iTunesRichPresence](https://github.com/nint8835/iTunesRichPresence) - Bring iTunes now playing information to Discord using Rich Presence
+- [psyrax/SerialMonitor](https://github.com/psyrax/SerialMonitor) - Send performance data and control media to an arduino micro.
 
 ## C++ 
 
-- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
-- [ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
-- [ESPStringTemplate](https://github.com/DaleGia/ESPStringTemplate) - A string templating class for building static web pages on the ESP8266
-- [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-- [ESPWebDAV](https://github.com/ardyesp/ESPWebDAV) - Wifi WebDAV server using ESP8266
-- [Deauther-Project](https://github.com/lspoplove/Deauther-Project) - We open sourced the hardware part of deauther project
-- [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [ChickenManGame](https://github.com/skickar/ChickenManGame) - A Wi-Fi hacking game for CTF's and hackerspaces to teach cracking WPA/WAP2 - Who will be the Chicken Man?
-- [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
-- [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
-- [jled](https://github.com/jandelgado/jled) - Non-blocking LED controlling library for Arduino and friends.
-- [machinery](https://github.com/kerberos-io/machinery) - (DEPRECATED) An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
-- [ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot) - Telegram Bot Library for ESP8266 on Arduino IDE
-- [WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
-- [ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
-- [esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
-- [ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
-- [blog](https://github.com/lpodkalicki/blog) - A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
+- [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
+- [DaleGia/ESPStringTemplate](https://github.com/DaleGia/ESPStringTemplate) - A string templating class for building static web pages on the ESP8266
+- [perilouswithadollarsign/cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
+- [ardyesp/ESPWebDAV](https://github.com/ardyesp/ESPWebDAV) - Wifi WebDAV server using ESP8266
+- [lspoplove/Deauther-Project](https://github.com/lspoplove/Deauther-Project) - We open sourced the hardware part of deauther project
+- [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [skickar/ChickenManGame](https://github.com/skickar/ChickenManGame) - A Wi-Fi hacking game for CTF's and hackerspaces to teach cracking WPA/WAP2 - Who will be the Chicken Man?
+- [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
+- [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
+- [jandelgado/jled](https://github.com/jandelgado/jled) - Non-blocking LED controlling library for Arduino and friends.
+- [kerberos-io/machinery](https://github.com/kerberos-io/machinery) - (DEPRECATED) An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
+- [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot) - Telegram Bot Library for ESP8266 on Arduino IDE
+- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
+- [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
+- [espressif/esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
+- [spacehuhn/ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
+- [lpodkalicki/blog](https://github.com/lpodkalicki/blog) - A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.
 
 ## CSS 
 
-- [nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
-- [Nordic-Polar](https://github.com/EliverLara/Nordic-Polar) - 
-- [Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
+- [EliverLara/Nordic-Polar](https://github.com/EliverLara/Nordic-Polar) - 
+- [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 
 ## Clojure 
 
-- [Haack](https://github.com/ignatov/Haack) - Hæck
+- [ignatov/Haack](https://github.com/ignatov/Haack) - Hæck
 
 ## CoffeeScript 
 
-- [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 
 ## Eagle 
 
-- [keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.
+- [samyk/keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.
 
 ## Emacs Lisp 
 
-- [dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [da-edra/dotfiles](https://github.com/da-edra/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 
 ## Go 
 
-- [sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-- [dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
-- [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+- [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+- [benjojo/dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
+- [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
 ## HCL 
 
-- [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+- [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 
 ## HTML 
 
-- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [WIFI-Standard-Password-Calculator](https://github.com/valplusplusle/WIFI-Standard-Password-Calculator) - bash code to calculate the standard passwords from your ISP router
-- [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-- [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+- [valplusplusle/WIFI-Standard-Password-Calculator](https://github.com/valplusplusle/WIFI-Standard-Password-Calculator) - bash code to calculate the standard passwords from your ISP router
+- [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+- [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
 ## Java 
 
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
-- [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
+- [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 
 ## JavaScript 
 
-- [tracespace](https://github.com/tracespace/tracespace) - ⚡️generate beautiful and accurate SVG renders of printed circuit boards
-- [homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
-- [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
-- [homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
-- [node-red-contrib-deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
-- [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
-- [node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
-- [node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
-- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
-- [sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) - 
-- [P4wnP1-ALOA-HID-payloads](https://github.com/beboxos/P4wnP1-ALOA-HID-payloads) - share of my personnal payloads for P4wnP1 A.L.O.A
-- [Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
-- [crosstalk-chrome](https://github.com/dailywageworkers/crosstalk-chrome) - Chrome Extension for cross talk
+- [tracespace/tracespace](https://github.com/tracespace/tracespace) - ⚡️generate beautiful and accurate SVG renders of printed circuit boards
+- [AMoo-Miki/homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
+- [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [2341/ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
+- [SeydX/homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
+- [deconz-community/node-red-contrib-deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
+- [TotallyInformation/node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
+- [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
+- [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
+- [Lyrebirds/sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) - 
+- [beboxos/P4wnP1-ALOA-HID-payloads](https://github.com/beboxos/P4wnP1-ALOA-HID-payloads) - share of my personnal payloads for P4wnP1 A.L.O.A
+- [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
+- [dailywageworkers/crosstalk-chrome](https://github.com/dailywageworkers/crosstalk-chrome) - Chrome Extension for cross talk
 
 ## Jupyter Notebook 
 
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 ## Lua 
 
-- [titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
-- [material-awesome](https://github.com/ChrisTitusTech/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
+- [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
+- [ChrisTitusTech/material-awesome](https://github.com/ChrisTitusTech/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 
 ## Makefile 
 
-- [badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
+- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
 
 ## Others 
 
-- [EggBot](https://github.com/ProbotXYZ/EggBot) - 3d printed budget Egg Painter (eggbot MOD)
-- [portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-- [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
-- [nanodesu-xfwm4](https://github.com/tdloi/nanodesu-xfwm4) - Window title bar button for xfce4
-- [password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
-- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
-- [arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
-- [esp-homekit-demo](https://github.com/maximkulkin/esp-homekit-demo) - Demo of Apple HomeKit accessory server library
-- [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
-- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+- [ProbotXYZ/EggBot](https://github.com/ProbotXYZ/EggBot) - 3d printed budget Egg Painter (eggbot MOD)
+- [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [tdloi/nanodesu-xfwm4](https://github.com/tdloi/nanodesu-xfwm4) - Window title bar button for xfce4
+- [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
+- [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
+- [angristan/arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
+- [maximkulkin/esp-homekit-demo](https://github.com/maximkulkin/esp-homekit-demo) - Demo of Apple HomeKit accessory server library
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 ## PHP 
 
-- [ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
+- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
 
 ## PowerShell 
 
-- [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
-- [ReverseTCPShell](https://github.com/ZHacker13/ReverseTCPShell) - PowerShell ReverseTCP Shell - Framework
+- [cisagov/Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
+- [ZHacker13/ReverseTCPShell](https://github.com/ZHacker13/ReverseTCPShell) - PowerShell ReverseTCP Shell - Framework
 
 ## Python 
 
-- [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
-- [tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
-- [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
-- [fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
-- [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
-- [mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
-- [pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-- [socialbrute](https://github.com/5h4d0wb0y/socialbrute) - It attempts to crack social networks using a brute force dictionary attack.
-- [check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) - Test a host for susceptibility to CVE-2019-19781
-- [Arnold](https://github.com/glample/Arnold) - Arnold - DOOM Agent
-- [cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) - 
-- [amd-sev-migration-attack](https://github.com/RobertBuhren/amd-sev-migration-attack) - 
-- [volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
-- [APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
-- [OzFluxQC](https://github.com/OzFlux/OzFluxQC) - Repository for the OzFluxQC code
-- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
-- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
-- [phue](https://github.com/studioimaginaire/phue) - A Python library for the Philips Hue system
-- [pi-clap](https://github.com/nikhiljohn10/pi-clap) - A python package for clap detection
-- [social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
-- [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
-- [Salamandra](https://github.com/eldraco/Salamandra) - Salamandra is a tool to find spy microphones that use radio freq to transmit. It uses SDR.
-- [P4wnP1](https://github.com/RoganDawes/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+- [xmendez/wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
+- [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
+- [ins1gn1a/NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
+- [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
+- [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
+- [LDO-CERT/mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
+- [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+- [5h4d0wb0y/socialbrute](https://github.com/5h4d0wb0y/socialbrute) - It attempts to crack social networks using a brute force dictionary attack.
+- [cisagov/check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) - Test a host for susceptibility to CVE-2019-19781
+- [glample/Arnold](https://github.com/glample/Arnold) - Arnold - DOOM Agent
+- [Lyrebirds/cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) - 
+- [RobertBuhren/amd-sev-migration-attack](https://github.com/RobertBuhren/amd-sev-migration-attack) - 
+- [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
+- [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
+- [OzFlux/OzFluxQC](https://github.com/OzFlux/OzFluxQC) - Repository for the OzFluxQC code
+- [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
+- [studioimaginaire/phue](https://github.com/studioimaginaire/phue) - A Python library for the Philips Hue system
+- [nikhiljohn10/pi-clap](https://github.com/nikhiljohn10/pi-clap) - A python package for clap detection
+- [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+- [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
+- [eldraco/Salamandra](https://github.com/eldraco/Salamandra) - Salamandra is a tool to find spy microphones that use radio freq to transmit. It uses SDR.
+- [RoganDawes/P4wnP1](https://github.com/RoganDawes/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
 
 ## QML 
 
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Ruby 
 
-- [aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
+- [sous-chefs/aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
 
 ## Rust 
 
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 
 ## Shell 
 
-- [pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
-- [docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
-- [docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
-- [nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
-- [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
-- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
-- [rkhunter](https://github.com/installation/rkhunter) - Rootkit Hunter install script
-- [CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
-- [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
-- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [raspberrypi-ua-netinst](https://github.com/FooDeas/raspberrypi-ua-netinst) - RaspberryPi (minimal) unattended netinstaller
-- [raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
+- [marthoc/docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
+- [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
+- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [manjaro/manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
+- [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [installation/rkhunter](https://github.com/installation/rkhunter) - Rootkit Hunter install script
+- [projectzeroindia/CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
+- [asciidoctor/docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [FooDeas/raspberrypi-ua-netinst](https://github.com/FooDeas/raspberrypi-ua-netinst) - RaspberryPi (minimal) unattended netinstaller
+- [debian-pi/raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
 
 ## TeX 
 
-- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
+- [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
 
 ## TypeScript 
 
-- [plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
-- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [homebridge-philips-android-tv](https://github.com/konradknitter/homebridge-philips-android-tv) - Homebridge module for the Philips Android TV
-- [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+- [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
+- [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
+- [konradknitter/homebridge-philips-android-tv](https://github.com/konradknitter/homebridge-philips-android-tv) - Homebridge module for the Philips Android TV
+- [homebridge/HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
+- [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
 
 
 ## License
