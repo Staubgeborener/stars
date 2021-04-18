@@ -166,6 +166,7 @@
 
 ## Others 
 
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [ProbotXYZ/EggBot](https://github.com/ProbotXYZ/EggBot) - 3d printed budget Egg Painter (eggbot MOD)
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
@@ -185,6 +186,7 @@
 
 ## PowerShell 
 
+- [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 - [cisagov/Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
 - [ZHacker13/ReverseTCPShell](https://github.com/ZHacker13/ReverseTCPShell) - PowerShell ReverseTCP Shell - Framework
 
@@ -253,6 +255,7 @@
 
 ## TypeScript 
 
+- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
 - [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [konradknitter/homebridge-philips-android-tv](https://github.com/konradknitter/homebridge-philips-android-tv) - Homebridge module for the Philips Android TV
