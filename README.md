@@ -34,6 +34,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Vim script](#vim-script)
 
 ## Arduino 
 
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [hashcat/princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
@@ -202,6 +204,7 @@
 
 ## Python 
 
+- [asciimoo/exrex](https://github.com/asciimoo/exrex) - Irregular methods on regular expressions
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -286,6 +289,10 @@
 ## Vala 
 
 - [tiliado/nuvolaplayer](https://github.com/tiliado/nuvolaplayer) - Nuvola Player - Tight integration of web-based media streaming services with your desktop
+
+## Vim script 
+
+- [threadexio/dotfiles](https://github.com/threadexio/dotfiles) - My dotfiles
 
 
 ## License
