@@ -265,7 +265,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [marthoc/docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
 - [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
