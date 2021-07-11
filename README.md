@@ -269,7 +269,7 @@
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [marthoc/docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
 - [oznu/docker-homebridge](https://github.com/oznu/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
-- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - 
+- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [manjaro/manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
