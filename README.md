@@ -11,7 +11,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -105,10 +104,6 @@
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ignatov/Haack](https://github.com/ignatov/Haack) - Hæck
 
-## CoffeeScript 
-
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-
 ## Eagle 
 
 - [samyk/keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.
@@ -156,6 +151,7 @@
 - [TotallyInformation/node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
 - [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [Lyrebirds/sagemcom-fast-3890-exploit](https://github.com/Lyrebirds/sagemcom-fast-3890-exploit) - 
 - [beboxos/P4wnP1-ALOA-HID-payloads](https://github.com/beboxos/P4wnP1-ALOA-HID-payloads) - share of my personnal payloads for P4wnP1 A.L.O.A
