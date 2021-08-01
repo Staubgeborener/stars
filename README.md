@@ -255,6 +255,7 @@
 
 ## Shell 
 
+- [WebThingsIO/wiki](https://github.com/WebThingsIO/wiki) - Developer Wiki
 - [qarmin/Rusty-Linux](https://github.com/qarmin/Rusty-Linux) - Simple script to install most basic Rust apps as alternative to default one
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
