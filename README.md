@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -68,6 +69,7 @@
 ## C++ 
 
 - [davidchatting/Approximate](https://github.com/davidchatting/Approximate) - The Approximate Library is a WiFi Arduino library for building proximate interactions between your Internet of Things and the ESP8266 or ESP32
+- [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -104,6 +106,10 @@
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ignatov/Haack](https://github.com/ignatov/Haack) - Hæck
 
+## Dockerfile 
+
+- [webanck/docker-wine-steam](https://github.com/webanck/docker-wine-steam) - Docker image with wine, steam and steam games on the local host with graphical and audio support.
+
 ## Eagle 
 
 - [samyk/keysweeper](https://github.com/samyk/keysweeper) - KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.
@@ -115,7 +121,6 @@
 ## Go 
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [benjojo/dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
