@@ -149,7 +149,7 @@
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [tracespace/tracespace](https://github.com/tracespace/tracespace) - ⚡️generate beautiful and accurate SVG renders of printed circuit boards
 - [AMoo-Miki/homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
-- [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
+- [yuliskov/SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [2341/ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
 - [SeydX/homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
@@ -230,7 +230,7 @@
 - [cisagov/check-cve-2019-19781](https://github.com/cisagov/check-cve-2019-19781) - Test a host for susceptibility to CVE-2019-19781
 - [glample/Arnold](https://github.com/glample/Arnold) - Arnold - DOOM Agent
 - [Lyrebirds/cable-haunt-vulnerability-test](https://github.com/Lyrebirds/cable-haunt-vulnerability-test) - 
-- [RobertBuhren/amd-sev-migration-attack](https://github.com/RobertBuhren/amd-sev-migration-attack) - 
+- [PSPReverse/amd-sev-migration-attack](https://github.com/PSPReverse/amd-sev-migration-attack) - 
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
 - [OzFlux/OzFluxQC](https://github.com/OzFlux/OzFluxQC) - Repository for the OzFluxQC code
