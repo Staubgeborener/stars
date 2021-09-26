@@ -124,6 +124,7 @@
 
 ## Go 
 
+- [benjojo/ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [benjojo/dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
