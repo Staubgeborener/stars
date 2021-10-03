@@ -43,6 +43,7 @@
 
 ## C 
 
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
 - [hashcat/princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm
@@ -149,6 +150,7 @@
 
 ## JavaScript 
 
+- [thelastWallE/OctoprintKlipperPlugin](https://github.com/thelastWallE/OctoprintKlipperPlugin) - A plugin for a better integration of Klipper into OctoPrint.
 - [jneilliii/OctoPrint-BedLevelVisualizer](https://github.com/jneilliii/OctoPrint-BedLevelVisualizer) - 
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -216,7 +218,7 @@
 
 ## PowerShell 
 
-- [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
+- [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 - [cisagov/Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
 - [ZHacker13/ReverseTCPShell](https://github.com/ZHacker13/ReverseTCPShell) - PowerShell ReverseTCP Shell - Framework
 
@@ -269,7 +271,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 
 ## Shell 
 
