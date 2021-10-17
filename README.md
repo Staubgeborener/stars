@@ -42,6 +42,7 @@
 
 ## C 
 
+- [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
@@ -221,6 +222,8 @@
 
 ## Python 
 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [lsellens/OctoPrint-Cr10_leveling](https://github.com/lsellens/OctoPrint-Cr10_leveling) - Adds bed leveling buttons to the controls tab on OctoPrint
 - [eyal0/OctoPrint-PrintTimeGenius](https://github.com/eyal0/OctoPrint-PrintTimeGenius) - Use a gcode pre-analysis to provide better print time estimation
 - [asciimoo/exrex](https://github.com/asciimoo/exrex) - Irregular methods on regular expressions
