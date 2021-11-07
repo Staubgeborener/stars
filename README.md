@@ -158,7 +158,7 @@
 - [yuliskov/SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [2341/ageless](https://github.com/2341/ageless) - Firefox addon to watch age restricted youtube videos without an account
-- [SeydX/homebridge-fritz-platform](https://github.com/SeydX/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
+- [seydx/homebridge-fritz-platform](https://github.com/seydx/homebridge-fritz-platform) - AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
 - [deconz-community/node-red-contrib-deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Node-Red Nodes for deCONZ connectivity.
 - [TotallyInformation/node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.
 - [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
