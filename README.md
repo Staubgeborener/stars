@@ -237,7 +237,7 @@
 - [xmendez/wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [ins1gn1a/NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [LDO-CERT/mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
