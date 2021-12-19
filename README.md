@@ -58,7 +58,7 @@
 - [devio/Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
 - [libyal/libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 - [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) - Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
-- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 - [SHA2017-badge/bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
 - [lpodkalicki/blog](https://github.com/lpodkalicki/blog) - A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.
@@ -134,6 +134,7 @@
 
 ## HTML 
 
+- [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [valplusplusle/WIFI-Standard-Password-Calculator](https://github.com/valplusplusle/WIFI-Standard-Password-Calculator) - bash code to calculate the standard passwords from your ISP router
@@ -142,6 +143,7 @@
 
 ## Java 
 
+- [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
@@ -223,6 +225,7 @@
 
 ## Python 
 
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [lsellens/OctoPrint-Cr10_leveling](https://github.com/lsellens/OctoPrint-Cr10_leveling) - Adds bed leveling buttons to the controls tab on OctoPrint
