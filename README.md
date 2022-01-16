@@ -42,6 +42,7 @@
 
 ## C 
 
+- [dgiese/dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
@@ -66,6 +67,7 @@
 
 ## C# # 
 
+- [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 - [RickDB/HyperionScreenCap](https://github.com/RickDB/HyperionScreenCap) - Screen capture program for Hyperion ambilight
 - [nint8835/iTunesRichPresence](https://github.com/nint8835/iTunesRichPresence) - Bring iTunes now playing information to Discord using Rich Presence
@@ -73,6 +75,7 @@
 
 ## C++ 
 
+- [mmakaay/esphome-xiaomi_bslamp2](https://github.com/mmakaay/esphome-xiaomi_bslamp2) - ESPHome integration for the Xiaomi Mijia Bedside Lamp v2.
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [davidchatting/Approximate](https://github.com/davidchatting/Approximate) - The Approximate Library is a WiFi Arduino library for building proximate interactions between your Internet of Things and the ESP8266 or ESP32
@@ -155,6 +158,7 @@
 
 ## JavaScript 
 
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [YourTechBud/practical-guide](https://github.com/YourTechBud/practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
 - [thelastWallE/OctoprintKlipperPlugin](https://github.com/thelastWallE/OctoprintKlipperPlugin) - A plugin for a better integration of Klipper into OctoPrint.
@@ -232,6 +236,8 @@
 
 ## Python 
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [daviddme/DaviddTech-tradingview-webhook-trading-bot](https://github.com/daviddme/DaviddTech-tradingview-webhook-trading-bot) - Improved version of the Flask app receiving alerts from TradingView and automatically place an order or send the chart to Discord where you can choose whether to take the trade or not through a bot.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [vdcloudcraft/fail2ban-geo-exporter](https://github.com/vdcloudcraft/fail2ban-geo-exporter) - A Prometheus.io exporter that geotags your jailed IPs
@@ -292,6 +298,8 @@
 
 ## Shell 
 
+- [Freetz-NG/freetz-ng](https://github.com/Freetz-NG/freetz-ng) - Freetz-NG firmware modification for ​AVM devices like FRITZ!Box
+- [Freetz/freetz](https://github.com/Freetz/freetz) - Freetz firmware extension/modification for the ​AVM FRITZ!Box series and devices with identical hardware
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [WebThingsIO/wiki](https://github.com/WebThingsIO/wiki) - Developer Wiki
 - [qarmin/Rusty-Linux](https://github.com/qarmin/Rusty-Linux) - Simple script to install most basic Rust apps as alternative to default one
