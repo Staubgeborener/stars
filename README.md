@@ -35,6 +35,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Verilog](#verilog)
 
 ## Arduino 
 
@@ -204,6 +205,7 @@
 
 ## Others 
 
+- [S0und/S0undTV](https://github.com/S0und/S0undTV) - 
 - [Nesjob/Nesjob](https://github.com/Nesjob/Nesjob) - 
 - [siseci/hashcat-benchmark-comparison](https://github.com/siseci/hashcat-benchmark-comparison) - Hashcat Benchmark Comparison
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -298,6 +300,9 @@
 
 ## Shell 
 
+- [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
+- [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
+- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [Freetz-NG/freetz-ng](https://github.com/Freetz-NG/freetz-ng) - Freetz-NG firmware modification for ​AVM devices like FRITZ!Box
 - [Freetz/freetz](https://github.com/Freetz/freetz) - Freetz firmware extension/modification for the ​AVM FRITZ!Box series and devices with identical hardware
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
@@ -343,6 +348,10 @@
 ## Vala 
 
 - [tiliado/nuvolaplayer](https://github.com/tiliado/nuvolaplayer) - Nuvola Player - Tight integration of web-based media streaming services with your desktop
+
+## Verilog 
+
+- [lynxis/lpc_sniffer](https://github.com/lynxis/lpc_sniffer) - a low pin count sniffer for icestick
 
 
 ## License
