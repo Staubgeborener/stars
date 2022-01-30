@@ -300,6 +300,8 @@
 
 ## Shell 
 
+- [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
+- [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
 - [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
@@ -337,6 +339,7 @@
 
 ## TypeScript 
 
+- [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
 - [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
