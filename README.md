@@ -36,6 +36,7 @@
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Verilog](#verilog)
+  - [Vue](#vue)
 
 ## Arduino 
 
@@ -76,6 +77,7 @@
 
 ## C++ 
 
+- [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
 - [mmakaay/esphome-xiaomi_bslamp2](https://github.com/mmakaay/esphome-xiaomi_bslamp2) - ESPHome integration for the Xiaomi Mijia Bedside Lamp v2.
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
@@ -302,6 +304,8 @@
 
 ## Shell 
 
+- [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
+- [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - 
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
@@ -357,6 +361,10 @@
 ## Verilog 
 
 - [lynxis/lpc_sniffer](https://github.com/lynxis/lpc_sniffer) - a low pin count sniffer for icestick
+
+## Vue 
+
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - A Klipper webinterface made
 
 
 ## License
