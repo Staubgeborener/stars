@@ -240,6 +240,7 @@
 
 ## Python 
 
+- [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
@@ -364,7 +365,7 @@
 
 ## Vue 
 
-- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - A Klipper webinterface made
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper
 
 
 ## License
