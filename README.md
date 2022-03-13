@@ -32,6 +32,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -333,13 +334,17 @@
 - [manjaro/manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [installation/rkhunter](https://github.com/installation/rkhunter) - Rootkit Hunter install script
 - [projectzeroindia/CVE-2019-19781](https://github.com/projectzeroindia/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
 - [asciidoctor/docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [FooDeas/raspberrypi-ua-netinst](https://github.com/FooDeas/raspberrypi-ua-netinst) - RaspberryPi (minimal) unattended netinstaller
 - [debian-pi/raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
+
+## Swift 
+
+- [raphaelhanneken/apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS, that displays the remaining battery time and more.
 
 ## TeX 
 
