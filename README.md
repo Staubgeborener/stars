@@ -62,6 +62,7 @@
 - [devio/Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
 - [libyal/libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 - [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) - Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
+- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 - [SHA2017-badge/bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
@@ -100,7 +101,6 @@
 - [jandelgado/jled](https://github.com/jandelgado/jled) - Non-blocking LED controlling library for Arduino and friends.
 - [kerberos-io/machinery](https://github.com/kerberos-io/machinery) - (DEPRECATED) An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
 - [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot) - Telegram Bot Library for ESP8266 on Arduino IDE
-- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
 - [espressif/esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
 - [spacehuhn/ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
