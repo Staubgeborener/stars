@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [ebaauw/homebridge-deconz](https://github.com/ebaauw/homebridge-deconz) - Homebridge plugin for deCONZ
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [YourTechBud/practical-guide](https://github.com/YourTechBud/practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
