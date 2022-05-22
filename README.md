@@ -44,6 +44,7 @@
 
 ## C 
 
+- [nionio6915/Euclid_Probe](https://github.com/nionio6915/Euclid_Probe) - Euclid probe, a magnetically coupled Z Probe
 - [dgiese/dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
@@ -204,6 +205,7 @@
 
 ## Others 
 
+- [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much
 - [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.
 - [simplisticton/common-macros](https://github.com/simplisticton/common-macros) - A collection of macros common to all my printers running Klipper
 - [S0und/S0undTV](https://github.com/S0und/S0undTV) - 
@@ -217,7 +219,7 @@
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [angristan/arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
 - [maximkulkin/esp-homekit-demo](https://github.com/maximkulkin/esp-homekit-demo) - Demo of Apple HomeKit accessory server library
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
