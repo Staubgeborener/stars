@@ -133,6 +133,8 @@
 
 ## Go 
 
+- [dvalter/hydroxide](https://github.com/dvalter/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
+- [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [benjojo/ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -307,7 +309,7 @@
 ## Shell 
 
 - [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
-- [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - 
+- [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
