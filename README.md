@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
