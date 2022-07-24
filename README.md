@@ -214,7 +214,7 @@
 - [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [simplisticton/common-macros](https://github.com/simplisticton/common-macros) - A collection of macros common to all my printers running Klipper
-- [S0und/S0undTV](https://github.com/S0und/S0undTV) - 
+- [S0und/S0undTV](https://github.com/S0und/S0undTV) - An alternative app to watch the Twitch streaming service for Android TV devices
 - [Nesjob/Nesjob](https://github.com/Nesjob/Nesjob) - 
 - [siseci/hashcat-benchmark-comparison](https://github.com/siseci/hashcat-benchmark-comparison) - Hashcat Benchmark Comparison
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -247,6 +247,7 @@
 
 ## Python 
 
+- [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
