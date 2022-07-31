@@ -20,10 +20,12 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -44,6 +46,7 @@
 
 ## C 
 
+- [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) - AltServer for AltStore, but on-device
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [nionio6915/Euclid_Probe](https://github.com/nionio6915/Euclid_Probe) - Euclid probe, a magnetically coupled Z Probe
 - [dgiese/dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking
@@ -64,7 +67,6 @@
 - [devio/Walruss](https://github.com/devio/Walruss) - PC-Wahl 10 Hacking Tools
 - [libyal/libbde](https://github.com/libyal/libbde) - Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes
 - [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc) - Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
-- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 - [SHA2017-badge/bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
@@ -104,6 +106,7 @@
 - [jandelgado/jled](https://github.com/jandelgado/jled) - Non-blocking LED controlling library for Arduino and friends.
 - [kerberos-io/machinery](https://github.com/kerberos-io/machinery) - (DEPRECATED) An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion).
 - [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot) - Telegram Bot Library for ESP8266 on Arduino IDE
+- [kitesurfer1404/WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - WS2812 FX Library for Arduino and ESP8266
 - [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
 - [espressif/esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
 - [spacehuhn/ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
@@ -197,6 +200,10 @@
 
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
+## Logos 
+
+- [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+
 ## Lua 
 
 - [valentinLampriere/Isaac_Sewing-Machine](https://github.com/valentinLampriere/Isaac_Sewing-Machine) - 
@@ -211,6 +218,8 @@
 
 ## Others 
 
+- [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [simplisticton/common-macros](https://github.com/simplisticton/common-macros) - A collection of macros common to all my printers running Klipper
@@ -233,7 +242,12 @@
 
 ## PHP 
 
+- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed hashcracking
 - [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
+
+## Pascal 
+
+- [nannib/Imm2Virtual](https://github.com/nannib/Imm2Virtual) - This is a GUI (for Windows 64 bit) for a procedure to virtualize your EWF(E01), DD (raw), AFF disk image file without converting it, directly with VirtualBox, forensically proof.
 
 ## Perl 
 
@@ -247,6 +261,7 @@
 
 ## Python 
 
+- [powenn/AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI) - GUI for AltServerLinux
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -315,6 +330,7 @@
 
 ## Shell 
 
+- [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
 - [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
@@ -353,6 +369,7 @@
 
 ## Swift 
 
+- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [raphaelhanneken/apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS, that displays the remaining battery time and more.
 
 ## TeX 
