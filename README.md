@@ -261,6 +261,7 @@
 
 ## Python 
 
+- [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
 - [powenn/AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI) - GUI for AltServerLinux
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
