@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [lyckantropen/moonlight_hdr_launcher](https://github.com/lyckantropen/moonlight_hdr_launcher) - Launch anything in HDR mode using Moonlight
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
@@ -127,6 +128,7 @@
 
 ## Dockerfile 
 
+- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [webanck/docker-wine-steam](https://github.com/webanck/docker-wine-steam) - Docker image with wine, steam and steam games on the local host with graphical and audio support.
 
 ## Eagle 
@@ -333,6 +335,7 @@
 
 ## Shell 
 
+- [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
 - [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
@@ -340,7 +343,6 @@
 - [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
-- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [Freetz-NG/freetz-ng](https://github.com/Freetz-NG/freetz-ng) - Freetz-NG firmware modification for ​AVM devices like FRITZ!Box
 - [Freetz/freetz](https://github.com/Freetz/freetz) - Freetz firmware extension/modification for the ​AVM FRITZ!Box series and devices with identical hardware
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
