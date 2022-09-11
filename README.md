@@ -221,6 +221,7 @@
 
 ## Others 
 
+- [AndrewEllis93/Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile) - 
 - [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -265,6 +266,10 @@
 
 ## Python 
 
+- [AndrewEllis93/Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - 
+- [drybx/FT-Updater](https://github.com/drybx/FT-Updater) - Simple Python script that updates Freqtrade, strategy and blacklist
+- [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
+- [MasaiasuOse/binance-trade-bot](https://github.com/MasaiasuOse/binance-trade-bot) - Automated cryptocurrency trading bot
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
 - [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
 - [powenn/AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI) - GUI for AltServerLinux
