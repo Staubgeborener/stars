@@ -46,6 +46,7 @@
 
 ## C 
 
+- [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) - AltServer for AltStore, but on-device
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [nionio6915/Euclid_Probe](https://github.com/nionio6915/Euclid_Probe) - Euclid probe, a magnetically coupled Z Probe
