@@ -61,7 +61,7 @@
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
-- [owntone/owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name. Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radi
+- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [dimecho/ATtiny13-Plant](https://github.com/dimecho/ATtiny13-Plant) - Monitor soil moisture and water plant.
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [crozone/SpectrePoC](https://github.com/crozone/SpectrePoC) - Proof of concept code for the Spectre CPU exploit.
@@ -221,6 +221,7 @@
 
 ## Others 
 
+- [sashalex007/speedDrive](https://github.com/sashalex007/speedDrive) - SpeedDrive Repo (moved from thingiverse)
 - [AndrewEllis93/Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile) - 
 - [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
@@ -341,6 +342,7 @@
 
 ## Shell 
 
+- [ksanislo/klipper-pa_cal](https://github.com/ksanislo/klipper-pa_cal) - Klipper PA_CAL macro
 - [GRrHaG/AutoUpdater](https://github.com/GRrHaG/AutoUpdater) - Freqtrade Strategy AutoUpdater
 - [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
