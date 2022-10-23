@@ -141,7 +141,7 @@
 
 ## Go 
 
-- [Unickorn/discordtidal](https://github.com/Unickorn/discordtidal) - tidal discord rich presence for windows
+- [unickorn/discordtidal](https://github.com/unickorn/discordtidal) - tidal discord rich presence for windows
 - [dvalter/hydroxide](https://github.com/dvalter/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [YourTechBud/practical-guide](https://github.com/YourTechBud/practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
