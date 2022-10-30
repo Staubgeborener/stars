@@ -61,7 +61,7 @@
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [nkolban/esp32-snippets](https://github.com/nkolban/esp32-snippets) - Sample ESP32 snippets and code fragments
-- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [dimecho/ATtiny13-Plant](https://github.com/dimecho/ATtiny13-Plant) - Monitor soil moisture and water plant.
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [crozone/SpectrePoC](https://github.com/crozone/SpectrePoC) - Proof of concept code for the Spectre CPU exploit.
@@ -267,6 +267,7 @@
 
 ## Python 
 
+- [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [nlef/moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot) - Telegram bot to interact with Moonraker (Klipper Web API Server)
 - [rootiest/zippy-klipper_config](https://github.com/rootiest/zippy-klipper_config) - 
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -331,6 +332,7 @@
 
 ## Ruby 
 
+- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [sous-chefs/aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
 
