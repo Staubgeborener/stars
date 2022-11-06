@@ -346,6 +346,7 @@
 
 ## Shell 
 
+- [mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest) - This Repo contains an Webcam Service for multiple Cams and Services.
 - [ksanislo/klipper-pa_cal](https://github.com/ksanislo/klipper-pa_cal) - Klipper PA_CAL macro
 - [GRrHaG/AutoUpdater](https://github.com/GRrHaG/AutoUpdater) - Freqtrade Strategy AutoUpdater
 - [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
