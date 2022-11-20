@@ -14,6 +14,7 @@
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Emacs Lisp](#emacs-lisp)
+- [GAP](#gap)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -85,7 +86,6 @@
 
 ## C++ 
 
-- [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [lyckantropen/moonlight_hdr_launcher](https://github.com/lyckantropen/moonlight_hdr_launcher) - Launch anything in HDR mode using Moonlight
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
@@ -140,6 +140,10 @@
 
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 
+## GAP 
+
+- [walttriano/VoronUsers](https://github.com/walttriano/VoronUsers) - Voron Community mods, slicer profiles and firmware configurations.
+
 ## Go 
 
 - [unickorn/discordtidal](https://github.com/unickorn/discordtidal) - tidal discord rich presence for windows
@@ -171,6 +175,7 @@
 
 ## JavaScript 
 
+- [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
 - [ebaauw/homebridge-deconz](https://github.com/ebaauw/homebridge-deconz) - Homebridge plugin for deCONZ
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -222,6 +227,7 @@
 
 ## Others 
 
+- [boubounokefalos/Ender_SW](https://github.com/boubounokefalos/Ender_SW) - This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire.
 - [tinntbg/auto-power-off-klipper](https://github.com/tinntbg/auto-power-off-klipper) - Auto power off setup for a Klipper printer
 - [sashalex007/speedDrive](https://github.com/sashalex007/speedDrive) - SpeedDrive Repo (moved from thingiverse)
 - [AndrewEllis93/Ellis-SuperSlicer-Profiles](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles) - 
@@ -269,6 +275,7 @@
 
 ## Python 
 
+- [webhdx/PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [nlef/moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot) - Telegram bot to interact with Moonraker (Klipper Web API Server)
 - [rootiest/zippy-klipper_config](https://github.com/rootiest/zippy-klipper_config) - 
@@ -399,6 +406,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
