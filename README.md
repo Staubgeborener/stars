@@ -14,6 +14,7 @@
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Emacs Lisp](#emacs-lisp)
+- [G-code](#g-code)
 - [GAP](#gap)
 - [Go](#go)
 - [HTML](#html)
@@ -140,6 +141,10 @@
 ## Emacs Lisp 
 
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+
+## G-code 
+
+- [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 
 ## GAP 
 
