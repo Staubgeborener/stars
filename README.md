@@ -34,6 +34,7 @@
 - [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -120,7 +121,6 @@
 
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [ManuLosta/dotfiles](https://github.com/ManuLosta/dotfiles) - My desktop rice
-- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [EliverLara/Nordic-Polar](https://github.com/EliverLara/Nordic-Polar) - 
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 
@@ -233,6 +233,7 @@
 
 ## Others 
 
+- [Coffee-Grind-Distribution/coffee-grind-distribution](https://github.com/Coffee-Grind-Distribution/coffee-grind-distribution) - Open DB of Coffee grind distributions
 - [jlas1/Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch probe with magnetic attachement, primarily aimed at CoreXY 3d printers
 - [boubounokefalos/Ender_SW](https://github.com/boubounokefalos/Ender_SW) - This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire.
 - [tinntbg/auto-power-off-klipper](https://github.com/tinntbg/auto-power-off-klipper) - Auto power off setup for a Klipper printer
@@ -282,6 +283,9 @@
 
 ## Python 
 
+- [Weltraumpenner/mydealz_bot](https://github.com/Weltraumpenner/mydealz_bot) - 
+- [jgagneastro/coffeegrindsize](https://github.com/jgagneastro/coffeegrindsize) - Detects the individual coffee grounds in a white-background picture to determine particle size distribution
+- [csatt/coffeegrindsize](https://github.com/csatt/coffeegrindsize) - Detects the individual coffee grounds in a white-background picture to determine particle size distribution
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper
 - [webhdx/PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
@@ -361,8 +365,13 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
+## SCSS 
+
+- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
+
 ## Shell 
 
+- [Rat-OS/RatOS](https://github.com/Rat-OS/RatOS) - The preconfigured Raspberry Pi image that makes it easy to run Klipper + Moonraker + Mainsail on your printer.
 - [mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest) - This Repo contains an Webcam Service for multiple Cams and Services.
 - [ksanislo/klipper-pa_cal](https://github.com/ksanislo/klipper-pa_cal) - Klipper PA_CAL macro
 - [GRrHaG/AutoUpdater](https://github.com/GRrHaG/AutoUpdater) - Freqtrade Strategy AutoUpdater
