@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
 - [ebaauw/homebridge-deconz](https://github.com/ebaauw/homebridge-deconz) - Homebridge plugin for deCONZ
