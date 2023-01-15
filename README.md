@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [FormerLurker/ArcWelderLib](https://github.com/FormerLurker/ArcWelderLib) - A collection of projects used to convert G0/G1 commands to G2/G3 commands.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [lyckantropen/moonlight_hdr_launcher](https://github.com/lyckantropen/moonlight_hdr_launcher) - Launch anything in HDR mode using Moonlight
@@ -286,6 +287,7 @@
 
 ## Python 
 
+- [sc0tfree/mentalist](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat an
 - [initstring/passphrase-wordlist](https://github.com/initstring/passphrase-wordlist) - Passphrase wordlist and hashcat rules for offline cracking of long, complex passwords
 - [Weltraumpenner/mydealz_bot](https://github.com/Weltraumpenner/mydealz_bot) - 
 - [jgagneastro/coffeegrindsize](https://github.com/jgagneastro/coffeegrindsize) - Detects the individual coffee grounds in a white-background picture to determine particle size distribution
@@ -306,7 +308,7 @@
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
-- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad
+- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -375,6 +377,8 @@
 
 ## Shell 
 
+- [r3nt0n/keepass4brute](https://github.com/r3nt0n/keepass4brute) - Bruteforce Keepass databases (KDBX 4.x format)
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be.
 - [cardigliano/wireshark-fritzbox](https://github.com/cardigliano/wireshark-fritzbox) - Extcap module for Wireshark that allows you to run a remote capture from a FRITZ!Box router.
 - [Rat-OS/RatOS](https://github.com/Rat-OS/RatOS) - The preconfigured Raspberry Pi image that makes it easy to run Klipper + Moonraker + Mainsail on your printer.
 - [mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest) - This Repo contains an Webcam Service for multiple Cams and Services.
