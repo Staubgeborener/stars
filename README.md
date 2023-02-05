@@ -188,7 +188,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ebaauw/homebridge-deconz](https://github.com/ebaauw/homebridge-deconz) - Homebridge plugin for deCONZ
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [thelastWallE/OctoprintKlipperPlugin](https://github.com/thelastWallE/OctoprintKlipperPlugin) - A plugin for a better integration of Klipper into OctoPrint.
 - [jneilliii/OctoPrint-BedLevelVisualizer](https://github.com/jneilliii/OctoPrint-BedLevelVisualizer) - 
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
@@ -231,11 +230,13 @@
 
 ## Makefile 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
 
 ## Others 
 
+- [Sporif/dxvk-async](https://github.com/Sporif/dxvk-async) - 
 - [Coffee-Grind-Distribution/coffee-grind-distribution](https://github.com/Coffee-Grind-Distribution/coffee-grind-distribution) - Open DB of Coffee grind distributions
 - [jlas1/Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch probe with magnetic attachement, primarily aimed at CoreXY 3d printers
 - [boubounokefalos/Ender_SW](https://github.com/boubounokefalos/Ender_SW) - This is a full conversion of the popular Ender 3 Pro/V2 to a Voron Switchwire.
@@ -425,7 +426,7 @@
 ## Swift 
 
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [raphaelhanneken/apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS, that displays the remaining battery time and more.
 
 ## TeX 
