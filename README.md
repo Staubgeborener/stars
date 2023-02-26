@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [unickorn/discordtidal](https://github.com/unickorn/discordtidal) - tidal discord rich presence for windows
 - [dvalter/hydroxide](https://github.com/dvalter/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -188,7 +189,6 @@
 ## JavaScript 
 
 - [Hypfer/ICantBelieveItsNotValetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - A Valetudo companion service which renders maps to pngs
-- [ferdiamg/eBay-Kleinanzeigen-Wohnungssuche-Bot](https://github.com/ferdiamg/eBay-Kleinanzeigen-Wohnungssuche-Bot) - Scraped eBay-Kleinanzeigen alle 10 Minuten nach Wohnungen, die deinen Kriterien entsprechen und sendet dir eine SMS um schnell agieren zu können.
 - [apollo-ng/picoReflow](https://github.com/apollo-ng/picoReflow) - Turns a Raspberry Pi into a universal, web enabled Reflow Oven Controller
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -391,7 +391,6 @@
 
 ## Shell 
 
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [z0z0z/mf-install](https://github.com/z0z0z/mf-install) - Media Foundation workaround for Wine
 - [r3nt0n/keepass4brute](https://github.com/r3nt0n/keepass4brute) - Bruteforce Keepass databases (KDBX 4.x format)
@@ -440,6 +439,7 @@
 
 ## Swift 
 
+- [keepassium/KeePassium](https://github.com/keepassium/KeePassium) - KeePass-compatible password manager for iOS
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [raphaelhanneken/apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS, that displays the remaining battery time and more.
