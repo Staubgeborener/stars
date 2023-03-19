@@ -247,6 +247,7 @@
 
 ## Others 
 
+- [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Stone-Time/KlipperConfigs](https://github.com/Stone-Time/KlipperConfigs) - Alle meine Konfigurationen
 - [Sporif/dxvk-async](https://github.com/Sporif/dxvk-async) - 
