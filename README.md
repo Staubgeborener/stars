@@ -247,6 +247,7 @@
 
 ## Others 
 
+- [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
 - [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Stone-Time/KlipperConfigs](https://github.com/Stone-Time/KlipperConfigs) - Alle meine Konfigurationen
@@ -291,6 +292,7 @@
 
 ## Perl 
 
+- [simplisticton/v2-2566config](https://github.com/simplisticton/v2-2566config) - Config files for Voron V2.4 V2-2566
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 
 ## PowerShell 
@@ -302,6 +304,7 @@
 
 ## Python 
 
+- [Fragmon/calibration](https://github.com/Fragmon/calibration) - 
 - [kacpi2442/am_bot](https://github.com/kacpi2442/am_bot) - Using the toogoodtogo and foodsi APIs to notify me via a Telegram bot for open offers
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [WideBoner/betterww](https://github.com/WideBoner/betterww) - Better Wind Waker
@@ -335,7 +338,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
-- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
 - [lsellens/OctoPrint-Cr10_leveling](https://github.com/lsellens/OctoPrint-Cr10_leveling) - Adds bed leveling buttons to the controls tab on OctoPrint
 - [eyal0/OctoPrint-PrintTimeGenius](https://github.com/eyal0/OctoPrint-PrintTimeGenius) - Use a gcode pre-analysis to provide better print time estimation
 - [asciimoo/exrex](https://github.com/asciimoo/exrex) - Irregular methods on regular expressions
@@ -397,6 +400,7 @@
 
 ## Shell 
 
+- [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [z0z0z/mf-install](https://github.com/z0z0z/mf-install) - Media Foundation workaround for Wine
