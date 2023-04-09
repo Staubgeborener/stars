@@ -247,6 +247,7 @@
 
 ## Others 
 
+- [kevinakasam/BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3) - All parts including Voron files for the Belt Driven Ender 3 V3
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
 - [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
