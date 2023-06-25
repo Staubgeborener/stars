@@ -261,6 +261,7 @@
 
 - [ipahost/Lizard-for-Reddit](https://github.com/ipahost/Lizard-for-Reddit) - A powerful tweak for Reddit!
 - [kevinakasam/BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3) - All parts including Voron files for the Belt Driven Ender 3 V3
+- [Fragmon/calibration](https://github.com/Fragmon/calibration) - 
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
 - [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
@@ -322,7 +323,6 @@
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper
 - [beacon3d/beacon_klipper](https://github.com/beacon3d/beacon_klipper) - Beacon Klipper Module
-- [Fragmon/calibration](https://github.com/Fragmon/calibration) - 
 - [kacpi2442/am_bot](https://github.com/kacpi2442/am_bot) - Using the toogoodtogo and foodsi APIs to notify me via a Telegram bot for open offers
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [WideBoner/betterww](https://github.com/WideBoner/betterww) - Better Wind Waker
@@ -421,6 +421,7 @@
 
 ## Shell 
 
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
