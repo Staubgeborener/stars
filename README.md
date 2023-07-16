@@ -132,6 +132,7 @@
 
 ## CSS 
 
+- [getgrav/grav-plugin-shortcode-ui](https://github.com/getgrav/grav-plugin-shortcode-ui) - Grav Shortcode UI Plugin
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [ManuLosta/dotfiles](https://github.com/ManuLosta/dotfiles) - My desktop rice
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
