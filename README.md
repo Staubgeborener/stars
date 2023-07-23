@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [unickorn/discordtidal](https://github.com/unickorn/discordtidal) - tidal discord rich presence for windows
 - [dvalter/hydroxide](https://github.com/dvalter/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -198,6 +199,7 @@
 
 ## JavaScript 
 
+- [TecArt/grav-plugin-tecart-cookie-manager](https://github.com/TecArt/grav-plugin-tecart-cookie-manager) - Cookie Banner Plugin for Grav CMS with extended Admin Panel Manager and Cookie Settings options. Banner based on Cookie Consent JavaScript API by Osano.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [adriantanasa/github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) - Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support
 - [marklagendijk/node-toogoodtogo-watcher](https://github.com/marklagendijk/node-toogoodtogo-watcher) - Node.js cli tool for monitoring your favorite TooGoodToGo businesses. Docker image available.
@@ -426,6 +428,7 @@
 
 ## Shell 
 
+- [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
