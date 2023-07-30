@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [D](#d)
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Emacs Lisp](#emacs-lisp)
@@ -143,6 +144,10 @@
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ignatov/Haack](https://github.com/ignatov/Haack) - Hæck
+
+## D 
+
+- [Dadoum/Provision](https://github.com/Dadoum/Provision) - Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 
 ## Dockerfile 
 
@@ -377,7 +382,7 @@
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [ins1gn1a/NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [LDO-CERT/mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
@@ -428,6 +433,7 @@
 
 ## Shell 
 
+- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
