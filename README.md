@@ -165,6 +165,7 @@
 
 ## G-code 
 
+- [EukaDesigns/Bambu_CustomGCode](https://github.com/EukaDesigns/Bambu_CustomGCode) - Custom g-code for Bambu Studio
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 
 ## GAP 
