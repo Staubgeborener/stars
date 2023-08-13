@@ -84,6 +84,7 @@
 
 ## C# # 
 
+- [SuperTroye/BambuVideoStream](https://github.com/SuperTroye/BambuVideoStream) - Proof of concept app to stream MQTT from Bambu Lab 3D printer to OBS for video streaming.
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
@@ -198,13 +199,14 @@
 ## Java 
 
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - An advanced player for Android-based set-top boxes and tv
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 
 ## JavaScript 
 
+- [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
 - [TecArt/grav-plugin-tecart-cookie-manager](https://github.com/TecArt/grav-plugin-tecart-cookie-manager) - Cookie Banner Plugin for Grav CMS with extended Admin Panel Manager and Cookie Settings options. Banner based on Cookie Consent JavaScript API by Osano.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [adriantanasa/github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) - Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support
@@ -270,6 +272,7 @@
 
 ## Others 
 
+- [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 - [ipahost/Lizard-for-Reddit](https://github.com/ipahost/Lizard-for-Reddit) - A powerful tweak for Reddit!
 - [kevinakasam/BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3) - All parts including Voron files for the Belt Driven Ender 3 V3
 - [Fragmon/calibration](https://github.com/Fragmon/calibration) - 
@@ -332,6 +335,7 @@
 
 ## Python 
 
+- [MikeSiekkinen/BambuLabOBSOverlay](https://github.com/MikeSiekkinen/BambuLabOBSOverlay) - Utility script to poll your printers MQTT and write telemtry to text files that can be consumed by OBS
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper
