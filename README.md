@@ -199,7 +199,7 @@
 ## Java 
 
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - An advanced player for Android-based set-top boxes and tv
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
@@ -277,7 +277,7 @@
 - [kevinakasam/BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3) - All parts including Voron files for the Belt Driven Ender 3 V3
 - [Fragmon/calibration](https://github.com/Fragmon/calibration) - 
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
-- [MSzturc/the100](https://github.com/MSzturc/the100) - 
+- [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Stone-Time/KlipperConfigs](https://github.com/Stone-Time/KlipperConfigs) - Alle meine Konfigurationen
 - [Sporif/dxvk-async](https://github.com/Sporif/dxvk-async) - 
@@ -291,7 +291,7 @@
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 - [simplisticton/common-macros](https://github.com/simplisticton/common-macros) - A collection of macros common to all my printers running Klipper
 - [S0und/S0undTV](https://github.com/S0und/S0undTV) - An alternative app to watch the Twitch streaming service for Android TV devices
 - [Nesjob/Nesjob](https://github.com/Nesjob/Nesjob) - 
@@ -454,7 +454,7 @@
 - [GRrHaG/AutoUpdater](https://github.com/GRrHaG/AutoUpdater) - Freqtrade Strategy AutoUpdater
 - [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
-- [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
