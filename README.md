@@ -166,7 +166,7 @@
 
 ## G-code 
 
-- [EukaDesigns/Bambu_CustomGCode](https://github.com/EukaDesigns/Bambu_CustomGCode) - Custom g-code for Bambu Studio
+- [eukatree/Bambu_CustomGCode](https://github.com/eukatree/Bambu_CustomGCode) - Custom g-code for Bambu Studio
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 
 ## GAP 
@@ -263,7 +263,6 @@
 
 ## Makefile 
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 
 ## Objective-C 
@@ -294,6 +293,7 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 - [simplisticton/common-macros](https://github.com/simplisticton/common-macros) - A collection of macros common to all my printers running Klipper
 - [S0und/S0undTV](https://github.com/S0und/S0undTV) - An alternative app to watch the Twitch streaming service for Android TV devices
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Nesjob/Nesjob](https://github.com/Nesjob/Nesjob) - 
 - [siseci/hashcat-benchmark-comparison](https://github.com/siseci/hashcat-benchmark-comparison) - Hashcat Benchmark Comparison
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
