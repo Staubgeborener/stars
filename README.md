@@ -252,6 +252,7 @@
 
 ## Logos 
 
+- [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [level3tjg/RedditFilter](https://github.com/level3tjg/RedditFilter) - iOS Tweak - Filter out unwanted content from your Reddit feed
 - [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
@@ -315,6 +316,7 @@
 
 ## PHP 
 
+- [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734+ fake email providers.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
 - [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed password recovery
@@ -338,6 +340,7 @@
 
 ## Python 
 
+- [powenn/AltServer-Linux-PyScript](https://github.com/powenn/AltServer-Linux-PyScript) - AltServer-Linux Script python edition
 - [JBDCE/grandiaRemasteredRedux](https://github.com/JBDCE/grandiaRemasteredRedux) - Port of the Grandia ReDux Romhack from 2011
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [MikeSiekkinen/BambuLabOBSOverlay](https://github.com/MikeSiekkinen/BambuLabOBSOverlay) - Utility script to poll your printers MQTT and write telemtry to text files that can be consumed by OBS
@@ -472,7 +475,7 @@
 - [qarmin/Rusty-Linux](https://github.com/qarmin/Rusty-Linux) - Simple script to install most basic Rust apps as alternative to default one
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
