@@ -201,7 +201,7 @@
 ## Java 
 
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - A public open sourced tool.  Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instan
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
