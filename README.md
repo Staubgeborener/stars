@@ -448,6 +448,7 @@
 
 ## Shell 
 
+- [tasmota/mgos32-to-tasmota32](https://github.com/tasmota/mgos32-to-tasmota32) - ESP32 Mongoose OS to Tasmota32 OTA updates for Shelly
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
