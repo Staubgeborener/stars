@@ -52,6 +52,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
@@ -278,6 +279,7 @@
 
 ## Others 
 
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [GAGGIUINO/gaggiuino.github.io](https://github.com/GAGGIUINO/gaggiuino.github.io) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [kenp-io/not-for-airpods-repairs](https://github.com/kenp-io/not-for-airpods-repairs) - 
