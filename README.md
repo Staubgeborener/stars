@@ -257,7 +257,7 @@
 
 ## Logos 
 
-- [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+- [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [level3tjg/RedditFilter](https://github.com/level3tjg/RedditFilter) - iOS Tweak - Filter out unwanted content from your Reddit feed
 - [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
@@ -455,6 +455,7 @@
 
 ## Shell 
 
+- [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519) - 
 - [arner/roborock-glados](https://github.com/arner/roborock-glados) - GLaDOS (Portal) voice for xiaomi vacuum
 - [tasmota/mgos32-to-tasmota32](https://github.com/tasmota/mgos32-to-tasmota32) - ESP32 Mongoose OS to Tasmota32 OTA updates for Shelly
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
