@@ -45,6 +45,7 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Verilog](#verilog)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Arduino 
@@ -107,6 +108,7 @@
 
 ## C++ 
 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) - A WiFi mapping companion app for Valetudo
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -163,6 +165,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [tzerber/docker_nc_psql_nginx_ssl](https://github.com/tzerber/docker_nc_psql_nginx_ssl) - Nextcloud fpm with PostgreSQL and nginx, nginx-proxy-manager with LetsEncrypt example on amd64 Linux
 - [hkfuertes/altserverd](https://github.com/hkfuertes/altserverd) - AltServer with nextmuxd docker-compose convenience scripts
 - [webanck/docker-wine-steam](https://github.com/webanck/docker-wine-steam) - Docker image with wine, steam and steam games on the local host with graphical and audio support.
@@ -187,6 +190,14 @@
 
 ## Go 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
+- [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose prometheus metrics to the outside.
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something.
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
@@ -203,6 +214,7 @@
 
 ## HTML 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -221,6 +233,7 @@
 
 ## JavaScript 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
@@ -290,6 +303,7 @@
 
 ## Others 
 
+- [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [GAGGIUINO/gaggiuino.github.io](https://github.com/GAGGIUINO/gaggiuino.github.io) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -359,10 +373,14 @@
 
 ## Python 
 
+- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
+- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
+- [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [powenn/AltServer-Linux-PyScript](https://github.com/powenn/AltServer-Linux-PyScript) - AltServer-Linux Script python edition
 - [JBDCE/grandiaRemasteredRedux](https://github.com/JBDCE/grandiaRemasteredRedux) - Port of the Grandia ReDux Romhack from 2011
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [MikeSiekkinen/BambuLabOBSOverlay](https://github.com/MikeSiekkinen/BambuLabOBSOverlay) - Utility script to poll your printers MQTT and write telemtry to text files that can be consumed by OBS
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper
@@ -475,7 +493,6 @@
 - [tasmota/mgos32-to-tasmota32](https://github.com/tasmota/mgos32-to-tasmota32) - ESP32 Mongoose OS to Tasmota32 OTA updates for Shelly
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
@@ -563,6 +580,10 @@
 ## Verilog 
 
 - [lynxis/lpc_sniffer](https://github.com/lynxis/lpc_sniffer) - a low pin count sniffer for icestick
+
+## Vim Script 
+
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 ## Vue 
 
