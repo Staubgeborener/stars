@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
@@ -380,6 +381,7 @@
 
 ## Python 
 
+- [gerhart01/Hyper-V-scripts](https://github.com/gerhart01/Hyper-V-scripts) - Hyper-V scripts
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
@@ -387,7 +389,7 @@
 - [JBDCE/grandiaRemasteredRedux](https://github.com/JBDCE/grandiaRemasteredRedux) - Port of the Grandia ReDux Romhack from 2011
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [MikeSiekkinen/BambuLabOBSOverlay](https://github.com/MikeSiekkinen/BambuLabOBSOverlay) - Utility script to poll your printers MQTT and write telemtry to text files that can be consumed by OBS
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper
@@ -411,7 +413,7 @@
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
 - [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
 - [powenn/AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI) - GUI for AltServerLinux
-- [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
