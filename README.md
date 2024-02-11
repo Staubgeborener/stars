@@ -27,6 +27,7 @@
 - [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -306,6 +307,10 @@
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 
+## Nix 
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+
 ## Objective-C 
 
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
@@ -537,7 +542,6 @@
 - [marthoc/docker-deconz](https://github.com/marthoc/docker-deconz) - deCONZ Docker Image
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
 - [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [manjaro/manjaroiso](https://github.com/manjaro/manjaroiso) - This repo has been archived. Our code is now hosted at
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
