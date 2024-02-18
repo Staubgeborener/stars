@@ -111,7 +111,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) - A WiFi mapping companion app for Valetudo
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -233,6 +233,7 @@
 
 ## Java 
 
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - A public open sourced tool.  Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instan
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -241,7 +242,7 @@
 
 ## JavaScript 
 
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
@@ -386,6 +387,7 @@
 
 ## Python 
 
+- [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [gerhart01/Hyper-V-scripts](https://github.com/gerhart01/Hyper-V-scripts) - Hyper-V scripts
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
