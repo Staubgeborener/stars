@@ -28,6 +28,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -313,8 +314,13 @@
 
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
 
+## OpenSCAD 
+
+- [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers) - Voron Community mods
+
 ## Others 
 
+- [VoronDesign/Voron-Tap](https://github.com/VoronDesign/Voron-Tap) - 
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1
 - [OpenScan-org/OpenScan-Design](https://github.com/OpenScan-org/OpenScan-Design) - Collection of existing 3d scanner designs and 3d printable files
 - [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
@@ -388,6 +394,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [protoloft/klipper_z_calibration](https://github.com/protoloft/klipper_z_calibration) - Klipper plugin for self-calibrating z-offset
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [ronibandini/reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
@@ -505,6 +512,7 @@
 
 ## Shell 
 
+- [eduncan911/dotfiles](https://github.com/eduncan911/dotfiles) - Linux and macOS dotfiles Harmony
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
@@ -517,7 +525,7 @@
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [Turge08/print_area_bed_mesh](https://github.com/Turge08/print_area_bed_mesh) - Create bed mesh for print area only
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [r3nt0n/keepass4brute](https://github.com/r3nt0n/keepass4brute) - Bruteforce Keepass databases (KDBX 4.x format)
 - [cardigliano/wireshark-fritzbox](https://github.com/cardigliano/wireshark-fritzbox) - Extcap module for Wireshark that allows you to run a remote capture from a FRITZ!Box router.
 - [Rat-OS/RatOS](https://github.com/Rat-OS/RatOS) - The preconfigured Raspberry Pi image that makes it easy to run Klipper + Moonraker + Mainsail on your printer.
