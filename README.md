@@ -59,6 +59,7 @@
 
 ## C 
 
+- [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
 - [Arksine/katapult](https://github.com/Arksine/katapult) - Configurable bootloader for Klipper
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
@@ -257,7 +258,7 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [adriantanasa/github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) - Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support
 - [marklagendijk/node-toogoodtogo-watcher](https://github.com/marklagendijk/node-toogoodtogo-watcher) - Node.js cli tool for monitoring your favorite TooGoodToGo businesses. Docker image available.
-- [therealFoxster/altsource-viewer](https://github.com/therealFoxster/altsource-viewer) - View your favorite AltStore source
+- [therealFoxster/altsource-viewer](https://github.com/therealFoxster/altsource-viewer) - View your favorite AltStore source, made with vanilla HTML/CSS and JavaScript
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [Hypfer/ICantBelieveItsNotValetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - A Valetudo companion service which renders maps to pngs
 - [apollo-ng/picoReflow](https://github.com/apollo-ng/picoReflow) - Turns a Raspberry Pi into a universal, web enabled Reflow Oven Controller
@@ -323,6 +324,7 @@
 
 ## Others 
 
+- [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2
 - [VoronDesign/Voron-Tap](https://github.com/VoronDesign/Voron-Tap) - 
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1
 - [OpenScan-org/OpenScan-Design](https://github.com/OpenScan-org/OpenScan-Design) - Collection of existing 3d scanner designs and 3d printable files
@@ -359,7 +361,7 @@
 - [Nesjob/Nesjob](https://github.com/Nesjob/Nesjob) - 
 - [siseci/hashcat-benchmark-comparison](https://github.com/siseci/hashcat-benchmark-comparison) - Hashcat Benchmark Comparison
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [ProbotXYZ/EggBot](https://github.com/ProbotXYZ/EggBot) - 3d printed budget Egg Painter (eggbot MOD)
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [tdloi/nanodesu-xfwm4](https://github.com/tdloi/nanodesu-xfwm4) - Window title bar button for xfce4
