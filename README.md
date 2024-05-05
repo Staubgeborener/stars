@@ -59,6 +59,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
 - [Arksine/katapult](https://github.com/Arksine/katapult) - Configurable bootloader for Klipper
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
@@ -153,6 +154,7 @@
 
 ## CSS 
 
+- [eriroh/Mainsail-x-Voron-Toolhead-Theme](https://github.com/eriroh/Mainsail-x-Voron-Toolhead-Theme) - A dark theme for Mainsail including Voron toolheads and accent colors (Black & Red)
 - [cryd-s/Vyper_extended](https://github.com/cryd-s/Vyper_extended) - This is a extended Vyper Klipper / Mainsail Config
 - [getgrav/grav-plugin-shortcode-ui](https://github.com/getgrav/grav-plugin-shortcode-ui) - Grav Shortcode UI Plugin
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
