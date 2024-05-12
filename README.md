@@ -115,7 +115,7 @@
 
 ## C++ 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) - A WiFi mapping companion app for Valetudo
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -174,6 +174,7 @@
 
 ## Dockerfile 
 
+- [kometchtech/docker-build](https://github.com/kometchtech/docker-build) - personal docker build for armhf and aarch64
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [tzerber/docker_nc_psql_nginx_ssl](https://github.com/tzerber/docker_nc_psql_nginx_ssl) - Nextcloud fpm with PostgreSQL and nginx, nginx-proxy-manager with LetsEncrypt example on amd64 Linux
 - [hkfuertes/altserverd](https://github.com/hkfuertes/altserverd) - AltServer with nextmuxd docker-compose convenience scripts
@@ -327,6 +328,7 @@
 
 ## Others 
 
+- [jontek2/A-better-print_start-macro](https://github.com/jontek2/A-better-print_start-macro) - This document aims to help you get a simple but powerful start_macro for your voron printer!
 - [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2
 - [VoronDesign/Voron-Tap](https://github.com/VoronDesign/Voron-Tap) - 
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1
@@ -403,6 +405,7 @@
 
 ## Python 
 
+- [furrysalamander/rubedo](https://github.com/furrysalamander/rubedo) - A system for automatically calibrating pressure advance using laser triangulation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [protoloft/klipper_z_calibration](https://github.com/protoloft/klipper_z_calibration) - Klipper plugin for self-calibrating z-offset
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
@@ -521,6 +524,7 @@
 
 ## Shell 
 
+- [onedr0p/home-service](https://github.com/onedr0p/home-service) - My home service stack running on a Beelink EQ12 with Fedora IoT. These podman services are supporting my home infrastructure including, DNS and Kubernetes clusters.
 - [eduncan911/dotfiles](https://github.com/eduncan911/dotfiles) - Linux and macOS dotfiles Harmony
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
@@ -624,6 +628,7 @@
 
 ## Vim Script 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 ## Vue 
