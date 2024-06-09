@@ -120,7 +120,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) - A WiFi mapping companion app for Valetudo
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -330,10 +330,15 @@
 
 ## OpenSCAD 
 
+- [rdmullett/voron_serial_plate](https://github.com/rdmullett/voron_serial_plate) - Dynamic serial plate creator for Voron printers
 - [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers) - Voron Community mods
 
 ## Others 
 
+- [Driftrotor/Voron_V-SUB_0-70](https://github.com/Driftrotor/Voron_V-SUB_0-70) - Honey I shrunk the V0
+- [sorted01/Filametrix](https://github.com/sorted01/Filametrix) - This is a mod of the Voron Stealthburner which adds a filament cutting possibility!
+- [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
+- [DraftShift/StealthChanger](https://github.com/DraftShift/StealthChanger) - Tool changing system for Vorons and other front mount printer motion systems, not just stealthburner.
 - [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [bigtreetech/EBB](https://github.com/bigtreetech/EBB) - 
 - [jontek2/A-better-print_start-macro](https://github.com/jontek2/A-better-print_start-macro) - This document aims to help you get a simple but powerful start_macro for your voron printer!
