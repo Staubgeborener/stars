@@ -303,13 +303,12 @@
 
 ## Jupyter Notebook 
 
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [YourTechBud/ytb-practical-guide](https://github.com/YourTechBud/ytb-practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 ## Logos 
 
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
+- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [level3tjg/RedditFilter](https://github.com/level3tjg/RedditFilter) - iOS Tweak - Filter out unwanted content from your Reddit feed
 - [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
@@ -420,6 +419,7 @@
 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [tronfu/Voron-Mods](https://github.com/tronfu/Voron-Mods) - 
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [Anonoei/klipper_auto_tap](https://github.com/Anonoei/klipper_auto_tap) - Automatically find Voron TAP's probe offset
