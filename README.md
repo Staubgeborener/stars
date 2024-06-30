@@ -7,6 +7,7 @@
 
 - [Arduino](#arduino)
 - [Assembly](#assembly)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -57,6 +58,10 @@
 
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
 ## C 
 
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
@@ -65,7 +70,6 @@
 - [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
 - [Arksine/katapult](https://github.com/Arksine/katapult) - Configurable bootloader for Klipper
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
-- [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -308,13 +312,16 @@
 
 ## Logos 
 
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [level3tjg/RedditFilter](https://github.com/level3tjg/RedditFilter) - iOS Tweak - Filter out unwanted content from your Reddit feed
 - [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 ## Lua 
 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [valentinLampriere/Isaac_Sewing-Machine](https://github.com/valentinLampriere/Isaac_Sewing-Machine) - 
 - [tiagovla/.dotfiles](https://github.com/tiagovla/.dotfiles) - 
 - [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
@@ -417,6 +424,7 @@
 
 ## Python 
 
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -425,6 +433,7 @@
 - [Anonoei/klipper_auto_tap](https://github.com/Anonoei/klipper_auto_tap) - Automatically find Voron TAP's probe offset
 - [furrysalamander/rubedo](https://github.com/furrysalamander/rubedo) - A system for automatically calibrating pressure advance using laser triangulation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [protoloft/klipper_z_calibration](https://github.com/protoloft/klipper_z_calibration) - Klipper plugin for self-calibrating z-offset
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [ronibandini/reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
