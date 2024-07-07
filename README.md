@@ -66,7 +66,7 @@
 
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [himalayanelixir/arduino-usb-drivers](https://github.com/himalayanelixir/arduino-usb-drivers) - ✍️ Signed drivers for CH340 and CH341 USB controllers
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
 - [Arksine/katapult](https://github.com/Arksine/katapult) - Configurable bootloader for Klipper
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
@@ -163,6 +163,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [eriroh/Mainsail-x-Voron-Toolhead-Theme](https://github.com/eriroh/Mainsail-x-Voron-Toolhead-Theme) - A dark theme for Mainsail including Voron toolheads and accent colors (Black & Red)
 - [cryd-s/Vyper_extended](https://github.com/cryd-s/Vyper_extended) - This is a extended Vyper Klipper / Mainsail Config
 - [getgrav/grav-plugin-shortcode-ui](https://github.com/getgrav/grav-plugin-shortcode-ui) - Grav Shortcode UI Plugin
@@ -318,6 +319,8 @@
 
 ## Lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -348,6 +351,7 @@
 - [DraftShift/StealthChanger](https://github.com/DraftShift/StealthChanger) - Tool changing system for Vorons and other front mount printer motion systems, not just stealthburner.
 - [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [bigtreetech/EBB](https://github.com/bigtreetech/EBB) - 
+- [sttts/voron-klipper-config](https://github.com/sttts/voron-klipper-config) - Klipper configuration for Voron 2.4
 - [jontek2/A-better-print_start-macro](https://github.com/jontek2/A-better-print_start-macro) - This document aims to help you get a simple but powerful start_macro for your voron printer!
 - [containerfan/anduril2-diagrams](https://github.com/containerfan/anduril2-diagrams) - User Interface diagrams for Anduril 2
 - [VoronDesign/Voron-Tap](https://github.com/VoronDesign/Voron-Tap) - 
@@ -555,7 +559,6 @@
 
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [bishopdynamics/superbird-debian-kiosk](https://github.com/bishopdynamics/superbird-debian-kiosk) - # Debian Chromium Kiosk on Spotify Car Thing (superbird)
-- [sttts/voron-klipper-config](https://github.com/sttts/voron-klipper-config) - Klipper configuration for Voron 2.4
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [onedr0p/home-service](https://github.com/onedr0p/home-service) - My home service stack running on a Beelink EQ12 with Fedora IoT. These podman services are supporting my home infrastructure including, DNS and Kubernetes clusters.
