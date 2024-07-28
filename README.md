@@ -28,6 +28,7 @@
 - [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -341,6 +342,10 @@
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 
+## Nix 
+
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
+
 ## Objective-C 
 
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
@@ -428,6 +433,7 @@
 
 ## PowerShell 
 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Nonary/MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming, then automates swapping back to primary monitor once finished.
 - [Nonary/ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight, with capabilities of supersampling if required
 - [theyetty/update-hogwarts-legacy-engine.ini](https://github.com/theyetty/update-hogwarts-legacy-engine.ini) - 
@@ -511,7 +517,7 @@
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [ins1gn1a/NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [LDO-CERT/mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
@@ -565,6 +571,7 @@
 
 ## Shell 
 
+- [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [bishopdynamics/superbird-debian-kiosk](https://github.com/bishopdynamics/superbird-debian-kiosk) - # Debian Chromium Kiosk on Spotify Car Thing (superbird)
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
@@ -606,7 +613,6 @@
 - [WebThingsIO/wiki](https://github.com/WebThingsIO/wiki) - Developer Wiki
 - [qarmin/Rusty-Linux](https://github.com/qarmin/Rusty-Linux) - Simple script to install most basic Rust apps as alternative to default one
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
