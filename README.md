@@ -499,6 +499,7 @@
 - [cgarst/gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad) - Optimized GameStream environment for launching all of your games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [mainsail-crew/moonraker-timelapse](https://github.com/mainsail-crew/moonraker-timelapse) - Timelapse Plugin for moonraker
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [FormerLurker/Octolapse](https://github.com/FormerLurker/Octolapse) - Stabilized timelapses for Octoprint
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
@@ -610,7 +611,6 @@
 - [GRrHaG/AutoUpdater](https://github.com/GRrHaG/AutoUpdater) - Freqtrade Strategy AutoUpdater
 - [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
-- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
