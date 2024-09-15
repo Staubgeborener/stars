@@ -121,11 +121,13 @@
 - [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 - [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 - [RickDB/HyperionScreenCap](https://github.com/RickDB/HyperionScreenCap) - Screen capture program for Hyperion ambilight
-- [nint8835/iTunesRichPresence](https://github.com/nint8835/iTunesRichPresence) - Bring iTunes now playing information to Discord using Rich Presence
+- [nint8835-archive/iTunesRichPresence](https://github.com/nint8835-archive/iTunesRichPresence) - Bring iTunes now playing information to Discord using Rich Presence
 - [psyrax/SerialMonitor](https://github.com/psyrax/SerialMonitor) - Send performance data and control media to an arduino micro.
 
 ## C++ 
 
+- [SparksAndCode/Lock-Picking-Robot-V2](https://github.com/SparksAndCode/Lock-Picking-Robot-V2) - Repo to go along with version 2 of my lock picking robot video
+- [etinaude/unlocked](https://github.com/etinaude/unlocked) - Lock picking robot
 - [JohnDecebal/UNDR](https://github.com/JohnDecebal/UNDR) - 
 - [ClassicOldSong/Widecar](https://github.com/ClassicOldSong/Widecar) - Sidecar for Windows - with Sunshine and Moonlight
 - [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
@@ -208,6 +210,7 @@
 
 ## G-code 
 
+- [etinaude/Non-planar-ironing](https://github.com/etinaude/Non-planar-ironing) - Non-planar Ironing g-code generation to make FDM 3D prints up to 10x smoother
 - [eukatree/Bambu_CustomGCode](https://github.com/eukatree/Bambu_CustomGCode) - Custom g-code for Bambu Studio
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 
@@ -217,6 +220,7 @@
 
 ## Go 
 
+- [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng) - A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
@@ -269,6 +273,7 @@
 
 ## JavaScript 
 
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -324,7 +329,6 @@
 
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.
 - [level3tjg/RedditFilter](https://github.com/level3tjg/RedditFilter) - iOS Tweak - Filter out unwanted content from your Reddit feed
-- [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 ## Lua 
@@ -629,7 +633,7 @@
 - [WebThingsIO/wiki](https://github.com/WebThingsIO/wiki) - Developer Wiki
 - [qarmin/Rusty-Linux](https://github.com/qarmin/Rusty-Linux) - Simple script to install most basic Rust apps as alternative to default one
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
