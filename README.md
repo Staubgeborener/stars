@@ -115,7 +115,7 @@
 ## C# # 
 
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
-- [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
+- [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
 - [androidseb25/iGotify-Notification-Assistent](https://github.com/androidseb25/iGotify-Notification-Assistent) - Docker container for sending Gotify notifications to iOS devices (bridge to gotify websocket)
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [SuperTroye/BambuVideoStream](https://github.com/SuperTroye/BambuVideoStream) - Proof of concept app to stream MQTT from Bambu Lab 3D printer to OBS for video streaming.
@@ -405,6 +405,7 @@
 - [Driftrotor/Voron_V-SUB_0-70](https://github.com/Driftrotor/Voron_V-SUB_0-70) - Honey I shrunk the V0
 - [sorted01/Filametrix](https://github.com/sorted01/Filametrix) - This is a mod of the Voron Stealthburner which adds a filament cutting possibility!
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
+- [DraftShift/StealthChanger](https://github.com/DraftShift/StealthChanger) - Tool changing system for Vorons and other front mount printer motion systems, not just stealthburner.
 - [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [bigtreetech/EBB](https://github.com/bigtreetech/EBB) - 
 - [sttts/voron-klipper-config](https://github.com/sttts/voron-klipper-config) - Klipper configuration for Voron 2.4
@@ -501,7 +502,6 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
-- [DraftShift/StealthChanger](https://github.com/DraftShift/StealthChanger) - Tool changing system for Vorons and other front mount printer motion systems, not just stealthburner.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [tronfu/Voron-Mods](https://github.com/tronfu/Voron-Mods) - 
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
