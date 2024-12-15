@@ -19,6 +19,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [G-code](#g-code)
 - [GAP](#gap)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -227,6 +228,10 @@
 ## GAP 
 
 - [walttriano/VoronUsers](https://github.com/walttriano/VoronUsers) - Voron Community mods, slicer profiles and firmware configurations.
+
+## GDScript 
+
+- [brantagames/noise-shader](https://github.com/brantagames/noise-shader) - An additive cyclic noise shader that makes a cool effect.
 
 ## Go 
 
@@ -640,6 +645,7 @@
 
 ## Shell 
 
+- [fbeauKmi/update_klipper_and_mcus](https://github.com/fbeauKmi/update_klipper_and_mcus) - A bash script to update klipper and mcus in one step
 - [jaymoulin/docker-jdownloader](https://github.com/jaymoulin/docker-jdownloader) - JDownloader 2 Docker Image (Multiarch) - 50M+ Downloads
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mitchellkrogza/Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits) - This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
