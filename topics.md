@@ -622,7 +622,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sous-chefs/aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
-- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [LDO-CERT/mans_to_es](https://github.com/LDO-CERT/mans_to_es) - Parses the FireEye HX .mans triage collections and sends them to ElasticSearch
@@ -925,6 +925,7 @@
 
 ## others 
 
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [recyclarr/config-templates](https://github.com/recyclarr/config-templates) - Premade Configuration YAML Files for Recyclarr
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -1101,7 +1102,7 @@
 - [AndrewEllis93/Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - 
 - [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 - [MasaiasuOse/binance-trade-bot](https://github.com/MasaiasuOse/binance-trade-bot) - Automated cryptocurrency trading bot
-- [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
+- [ccxt/binance-trade-bot](https://github.com/ccxt/binance-trade-bot) - Automated cryptocurrency trading bot
 - [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - Enhance Your YouTube Experience
