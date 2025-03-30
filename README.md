@@ -142,7 +142,7 @@
 - [etinaude/Lock-Picking-Robot](https://github.com/etinaude/Lock-Picking-Robot) - Lock picking robot
 - [JohnDecebal/UNDR](https://github.com/JohnDecebal/UNDR) - 
 - [ClassicOldSong/Widecar](https://github.com/ClassicOldSong/Widecar) - Sidecar for Windows - with Sunshine and Moonlight
-- [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+- [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
