@@ -266,6 +266,7 @@
 
 ## bash 
 
+- [plexguide/Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) - Assists Sonarr to check for missing TV Shows
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
