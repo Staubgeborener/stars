@@ -37,6 +37,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-science](#data-science)
@@ -200,6 +201,7 @@
 
 ## api 
 
+- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [daviddme/DaviddTech-tradingview-webhook-trading-bot](https://github.com/daviddme/DaviddTech-tradingview-webhook-trading-bot) - Improved version of the Flask app receiving alerts from TradingView and automatically place an order or send the chart to Discord where you can choose whether to take the trade or not through a bot.
@@ -266,7 +268,6 @@
 
 ## bash 
 
-- [plexguide/Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) - Assists Sonarr to check for missing TV Shows
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -373,6 +374,10 @@
 ## cryptocurrency 
 
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
+
+## cryptography 
+
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ## css 
 
@@ -607,6 +612,7 @@
 
 ## hacktoberfest 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -943,6 +949,8 @@
 
 ## others 
 
+- [danieladov/jellyfin-plugin-mergeversions](https://github.com/danieladov/jellyfin-plugin-mergeversions) - This plugin scans all your movies and groups every repeated movie in one version
+- [Shnezzin/breitbandmessung](https://github.com/Shnezzin/breitbandmessung) - Perform breitbandmessung.de speedtests in an automated way
 - [3DPrintDemon/Demon_Klipper_Essentials_Unified](https://github.com/3DPrintDemon/Demon_Klipper_Essentials_Unified) - Devilishly Good Klipper Macros!
 - [interias/RELAX](https://github.com/interias/RELAX) - A Klipper macro to Release Parts from Bed and Perform Destress Heating
 - [VzBoT3D/VzBoT-Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) - The VzBot 3D-printer
@@ -981,7 +989,7 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [SparksAndCode/Lock-Picking-Robot-V2](https://github.com/SparksAndCode/Lock-Picking-Robot-V2) - Repo to go along with version 2 of my lock picking robot video
 - [uchks/repo.me](https://github.com/uchks/repo.me) - a modern apt repository template built by the community
-- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [JohnDecebal/UNDR](https://github.com/JohnDecebal/UNDR) - 
@@ -1286,6 +1294,7 @@
 
 ## php 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
 
@@ -1321,6 +1330,7 @@
 
 ## python 
 
+- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [garethky/klipper-voron2.4-config](https://github.com/garethky/klipper-voron2.4-config) - Klipper Config for my Voron 2.4
@@ -1433,6 +1443,7 @@
 
 ## security 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
@@ -1456,6 +1467,7 @@
 
 ## self-hosted 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
