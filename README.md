@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [danieladov/jellyfin-plugin-mergeversions](https://github.com/danieladov/jellyfin-plugin-mergeversions) - This plugin scans all your movies and groups every repeated movie in one version
 - [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
@@ -478,6 +479,7 @@
 
 ## PHP 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734+ fake email providers.
@@ -508,7 +510,8 @@
 
 ## Python 
 
-- [plexguide/Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) - Assists Sonarr to check for missing TV Shows
+- [Shnezzin/breitbandmessung](https://github.com/Shnezzin/breitbandmessung) - Perform breitbandmessung.de speedtests in an automated way
+- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
 - [andrewmcgr/klipper_tmc_autotune](https://github.com/andrewmcgr/klipper_tmc_autotune) - TMC stepper driver autotuning Klipper python extra
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
@@ -733,7 +736,7 @@
 
 ## Swift 
 
-- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
 - [jamf/aftermath](https://github.com/jamf/aftermath) - Aftermath is a free macOS IR framework
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [keepassium/KeePassium](https://github.com/keepassium/KeePassium) - KeePass-compatible password manager for iOS and macOS
