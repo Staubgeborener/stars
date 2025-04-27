@@ -152,6 +152,7 @@
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [text-to-speech](#text-to-speech)
@@ -201,7 +202,7 @@
 
 ## api 
 
-- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
+- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [daviddme/DaviddTech-tradingview-webhook-trading-bot](https://github.com/daviddme/DaviddTech-tradingview-webhook-trading-bot) - Improved version of the Flask app receiving alerts from TradingView and automatically place an order or send the chart to Discord where you can choose whether to take the trade or not through a bot.
@@ -232,6 +233,7 @@
 
 ## automation 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
@@ -240,6 +242,7 @@
 
 ## awesome 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -252,6 +255,7 @@
 
 ## awesome-list 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -479,7 +483,7 @@
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
 ## electron 
 
@@ -488,7 +492,7 @@
 ## emacs 
 
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
 ## embedded 
 
@@ -565,7 +569,7 @@
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
 ## github 
 
@@ -781,7 +785,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [nikhiljohn10/pi-clap](https://github.com/nikhiljohn10/pi-clap) - A python package for clap detection
 - [crozone/SpectrePoC](https://github.com/crozone/SpectrePoC) - Proof of concept code for the Spectre CPU exploit.
@@ -1044,7 +1048,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.4 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [tzerber/docker_nc_psql_nginx_ssl](https://github.com/tzerber/docker_nc_psql_nginx_ssl) - Nextcloud fpm with PostgreSQL and nginx, nginx-proxy-manager with LetsEncrypt example on amd64 Linux
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
@@ -1126,7 +1130,6 @@
 - [tinntbg/auto-power-off-klipper](https://github.com/tinntbg/auto-power-off-klipper) - Auto power off setup for a Klipper printer
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-- [nlef/moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot) - Telegram bot to interact with Moonraker (Klipper Web API Server)
 - [rootiest/zippy-klipper_config](https://github.com/rootiest/zippy-klipper_config) - Zippy Klipper Config
 - [ksanislo/klipper-pa_cal](https://github.com/ksanislo/klipper-pa_cal) - Klipper PA_CAL macro
 - [sashalex007/speedDrive](https://github.com/sashalex007/speedDrive) - SpeedDrive Repo (moved from thingiverse)
@@ -1331,7 +1334,7 @@
 
 ## python 
 
-- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
+- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [garethky/klipper-voron2.4-config](https://github.com/garethky/klipper-voron2.4-config) - Klipper Config for my Voron 2.4
@@ -1458,7 +1461,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 
 ## security-tools 
@@ -1548,6 +1551,12 @@
 - [kacpi2442/am_bot](https://github.com/kacpi2442/am_bot) - Using the toogoodtogo and foodsi APIs to notify me via a Telegram bot for open offers
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
+
+## telegram-bot 
+
+- [kacpi2442/am_bot](https://github.com/kacpi2442/am_bot) - Using the toogoodtogo and foodsi APIs to notify me via a Telegram bot for open offers
+- [nlef/moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot) - Telegram bot to interact with Moonraker (Klipper Web API Server)
+- [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 
 ## terminal 
 
