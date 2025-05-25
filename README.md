@@ -241,6 +241,8 @@
 
 ## Go 
 
+- [cyclone-github/yescrypt_crack](https://github.com/cyclone-github/yescrypt_crack) - Yescrypt Hash Cracker
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -280,7 +282,6 @@
 
 ## HTML 
 
-- [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -678,6 +679,7 @@
 - [jaymoulin/docker-jdownloader](https://github.com/jaymoulin/docker-jdownloader) - JDownloader 2 Docker Image (Multiarch) - 50M+ Downloads
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mitchellkrogza/Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits) - This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
+- [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
 - [Esoterical/voron_canbus](https://github.com/Esoterical/voron_canbus) - 
 - [mainsail-crew/sonar](https://github.com/mainsail-crew/sonar) - Sonar is a small Keepalive daemon for MainsailOS.
 - [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
