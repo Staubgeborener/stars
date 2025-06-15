@@ -523,6 +523,7 @@
 
 ## Python 
 
+- [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
 - [Shnezzin/breitbandmessung](https://github.com/Shnezzin/breitbandmessung) - Perform breitbandmessung.de speedtests in an automated way
