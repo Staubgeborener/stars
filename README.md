@@ -309,6 +309,7 @@
 
 ## JavaScript 
 
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -533,6 +534,8 @@
 
 ## Python 
 
+- [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
+- [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
