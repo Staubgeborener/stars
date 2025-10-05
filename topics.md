@@ -171,11 +171,13 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
@@ -475,6 +477,7 @@
 
 ## docker 
 
+- [NatoBoram/docker-compose](https://github.com/NatoBoram/docker-compose) - My personal homelab
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
@@ -519,7 +522,7 @@
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
@@ -560,7 +563,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 
 ## flutter 
 
@@ -614,7 +617,7 @@
 ## git 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
@@ -676,7 +679,6 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -697,7 +699,6 @@
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sous-chefs/aws](https://github.com/sous-chefs/aws) - Development repository for the aws cookbook
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
@@ -1018,6 +1019,8 @@
 
 ## others 
 
+- [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - YAML Generator for use with Kometa
 - [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - A collection of Docker templates and plugins for Unraid
@@ -1387,7 +1390,7 @@
 ## powershell 
 
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
@@ -1399,7 +1402,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -1728,6 +1731,10 @@
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 
+## visualization 
+
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+
 ## vpn 
 
 - [navilg/media-stack](https://github.com/navilg/media-stack) - A self-hosted stack for media management and streaming, with AI-powered movie and show recommendations. Includes Sonarr, Radarr, qBitTorrent, Prowlarr, Jellyfin, Jellyseerr, Recommendarr, and VPN supp
@@ -1755,10 +1762,14 @@
 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
+## whatsapp-bot 
+
+- [iongpt/LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp auto responder with LLM integration. It support OpenAI API and also local LLMs
+
 ## windows 
 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ClassicOldSong/Widecar](https://github.com/ClassicOldSong/Widecar) - Sidecar for Windows - with Sunshine and Moonlight
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [ungoogled-software/ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) - Windows packaging for ungoogled-chromium
@@ -1785,7 +1796,7 @@
 
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
