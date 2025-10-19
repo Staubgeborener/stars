@@ -1020,9 +1020,10 @@
 
 ## others 
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
-- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - YAML Generator for use with Kometa
+- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 - [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - A collection of Docker templates and plugins for Unraid
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
