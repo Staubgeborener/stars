@@ -286,7 +286,7 @@
 
 ## HTML 
 
-- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - YAML Generator for use with Kometa
+- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -538,6 +538,7 @@
 
 ## Python 
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - A collection of Docker templates and plugins for Unraid
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
