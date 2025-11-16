@@ -69,7 +69,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -122,6 +122,8 @@
 
 ## C# # 
 
+- [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
+- [luall0/jellynext](https://github.com/luall0/jellynext) - A Jellyfin plugin that creates per-user virtual libraries for personalized Trakt recommendations and new seasons. Seamlessly integrates with Jellyseerr/Radarr/Sonarr/CustomWebhook to trigger one-click
 - [danieladov/jellyfin-plugin-mergeversions](https://github.com/danieladov/jellyfin-plugin-mergeversions) - This plugin scans all your movies and groups every repeated movie in one version
 - [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
@@ -190,6 +192,7 @@
 
 ## CSS 
 
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [eriroh/Mainsail-x-Voron-Toolhead-Theme](https://github.com/eriroh/Mainsail-x-Voron-Toolhead-Theme) - A dark theme for Mainsail including Voron toolheads and accent colors (Black & Red)
@@ -312,6 +315,7 @@
 
 ## JavaScript 
 
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
@@ -530,7 +534,7 @@
 
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [recyclarr/config-templates](https://github.com/recyclarr/config-templates) - Premade Configuration YAML Files for Recyclarr
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Nonary/MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming, then automates swapping back to primary monitor once finished.
@@ -541,6 +545,8 @@
 
 ## Python 
 
+- [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
+- [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [TengerTechnologies/Smoothificator](https://github.com/TengerTechnologies/Smoothificator) - A script that enables you to 3D print with different Layerheights on the inside and outside of your print
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
@@ -803,6 +809,7 @@
 
 ## TypeScript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [iongpt/LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp auto responder with LLM integration. It support OpenAI API and also local LLMs
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
