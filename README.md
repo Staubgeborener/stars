@@ -315,6 +315,8 @@
 
 ## JavaScript 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [Exaphis/mutube](https://github.com/Exaphis/mutube) - Remove ads and add SponsorBlock on Apple TV.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
@@ -438,6 +440,7 @@
 
 ## Others 
 
+- [BZ00001/qui_workflows](https://github.com/BZ00001/qui_workflows) - qui workflow files
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -548,13 +551,13 @@
 
 ## Python 
 
+- [Audionut/Upload-Assistant](https://github.com/Audionut/Upload-Assistant) - A fork of L4G adding features, speed and bugs
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [0xnoid/CloudFail](https://github.com/0xnoid/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [ladyisatis/OnePaceOrganizer](https://github.com/ladyisatis/OnePaceOrganizer) - One Pace Organizer for Plex and Jellyfin: Add metadata like summaries, titles and posters to your One Pace collection (**Not affiliated with One Pace**)
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
-- [jaboll-ai/Uraniarr](https://github.com/jaboll-ai/Uraniarr) - Uraniarr is an ebook and audiobook collection manager
 - [timothe/Ace-Pace](https://github.com/timothe/Ace-Pace) - Keep up to date with One Pace releases
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
@@ -634,7 +637,6 @@
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [nlef/moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot) - Telegram bot to interact with Moonraker (Klipper Web API Server)
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
-- [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 - [MasaiasuOse/binance-trade-bot](https://github.com/MasaiasuOse/binance-trade-bot) - Automated cryptocurrency trading bot
 - [ccxt/binance-trade-bot](https://github.com/ccxt/binance-trade-bot) - Automated cryptocurrency trading bot
 - [TeamMsgExtractor/msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) - Extracts emails and attachments saved in Microsoft Outlook's .msg files
