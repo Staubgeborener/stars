@@ -291,9 +291,7 @@
 
 ## HTML 
 
-- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [AndrewEllis93/Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - 
@@ -316,11 +314,13 @@
 
 ## JavaScript 
 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [AKVorrat/netzbremse-measurement](https://github.com/AKVorrat/netzbremse-measurement) - Headless measurement tool for the netzbremse.de campaign.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [Exaphis/mutube](https://github.com/Exaphis/mutube) - Remove ads and add SponsorBlock on Apple TV.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
+- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
@@ -339,6 +339,7 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
+- [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
 - [TecArt/grav-plugin-tecart-cookie-manager](https://github.com/TecArt/grav-plugin-tecart-cookie-manager) - Cookie Banner Plugin for Grav CMS with extended Admin Panel Manager and Cookie Settings options. Banner based on Cookie Consent JavaScript API by Osano.
@@ -442,7 +443,6 @@
 
 ## Others 
 
-- [BZ00001/qui_workflows](https://github.com/BZ00001/qui_workflows) - qui workflow files
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [tschoerk/unraid-templates](https://github.com/tschoerk/unraid-templates) - Central storage for Unraid Community Applications templates
@@ -553,10 +553,12 @@
 
 ## Python 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [khromov/stl-fit](https://github.com/khromov/stl-fit) - 
 - [InJeCTrL/NeedFree](https://github.com/InJeCTrL/NeedFree) - Crawl 100%-discount games on steam
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Audionut/Upload-Assistant](https://github.com/Audionut/Upload-Assistant) - A fork of L4G adding features, speed and bugs
+- [BZ00001/qui_workflows](https://github.com/BZ00001/qui_workflows) - qui workflow files
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [0xnoid/CloudFail](https://github.com/0xnoid/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
