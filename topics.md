@@ -48,6 +48,7 @@
 - [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-science](#data-science)
 - [database](#database)
@@ -69,6 +70,7 @@
 - [facebook](#facebook)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -140,6 +142,7 @@
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
@@ -245,6 +248,7 @@
 
 ## android 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -499,6 +503,10 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - A public open sourced tool.  Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instan
 
+## dart 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
 ## data 
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
@@ -648,8 +656,13 @@
 
 ## flutter 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## font 
 
@@ -795,7 +808,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) - This Raspberry Pi distribution for managing Klipper 3D printers with Mainsail provides all you need.
-- [brunn3is/tor-relay-docker](https://github.com/brunn3is/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
+- [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
@@ -851,6 +864,7 @@
 
 ## ios 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - ⚠️ DEPRECATED — rewrite in progress. For now please use YTLite with tweaks by @dayanch96 instead.
@@ -934,6 +948,7 @@
 
 ## linux 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [cyclone-github/yescrypt_crack](https://github.com/cyclone-github/yescrypt_crack) - Yescrypt Hash Cracker
@@ -1000,6 +1015,7 @@
 
 ## macos 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -1165,7 +1181,8 @@
 
 ## others 
 
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [pasadoorian/MiTMBeast](https://github.com/pasadoorian/MiTMBeast) - 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [LitCastVlog/Flow](https://github.com/LitCastVlog/Flow) - Plex-inspired theme for Jellyfin's WebUI (Based on Scyfin)
 - [ahza-code/jellyfin-plugin-ronin](https://github.com/ahza-code/jellyfin-plugin-ronin) - An Anime toolkit to enhance Anime handling in Jellyfin. Automates season reorganization, tracks filler/canon episodes, and more.
@@ -1526,6 +1543,10 @@
 - [SHA2017-badge/bpp](https://github.com/SHA2017-badge/bpp) - Bpp protocol stuff
 - [espressif/esp32-doom](https://github.com/espressif/esp32-doom) - A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware.
 
+## p2p 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
 ## package-manager 
 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -1721,6 +1742,7 @@
 
 ## rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
@@ -1926,7 +1948,7 @@
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [cyclone-github/yescrypt_crack](https://github.com/cyclone-github/yescrypt_crack) - Yescrypt Hash Cracker
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [brunn3is/tor-relay-docker](https://github.com/brunn3is/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
+- [brunneis/tor-relay-docker](https://github.com/brunneis/tor-relay-docker) - Tor relay Docker images for x86-64, armhf & arm64 (from source)
 
 ## ui 
 
@@ -1996,6 +2018,7 @@
 
 ## windows 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
