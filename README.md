@@ -320,6 +320,7 @@
 
 ## JavaScript 
 
+- [ghh-jb/DarkSword](https://github.com/ghh-jb/DarkSword) - DarkSword exploit chain dump.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [AKVorrat/netzbremse-measurement](https://github.com/AKVorrat/netzbremse-measurement) - Headless measurement tool for the netzbremse.de campaign.
@@ -439,6 +440,7 @@
 
 ## Objective-C 
 
+- [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) - iOS &lt;=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
 
 ## OpenSCAD 
@@ -546,7 +548,7 @@
 
 ## PowerShell 
 
-- [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
+- [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a (small) bunch of scripts for Starr apps
 - [recyclarr/config-templates](https://github.com/recyclarr/config-templates) - Premade Configuration YAML Files for Recyclarr
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
