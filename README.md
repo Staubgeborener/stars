@@ -27,6 +27,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Lua](#lua)
@@ -321,6 +322,7 @@
 
 ## JavaScript 
 
+- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ghh-jb/DarkSword](https://github.com/ghh-jb/DarkSword) - DarkSword exploit chain dump.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -392,6 +394,10 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [YourTechBud/ytb-practical-guide](https://github.com/YourTechBud/ytb-practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -506,7 +512,6 @@
 - [sashalex007/speedDrive](https://github.com/sashalex007/speedDrive) - SpeedDrive Repo (moved from thingiverse)
 - [AndrewEllis93/Ellis-SuperSlicer-Profiles](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles) - 
 - [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
-- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - Enhance Your YouTube Experience
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much
@@ -564,6 +569,7 @@
 
 ## Python 
 
+- [HauZ22/Bandcamp_urlFilter](https://github.com/HauZ22/Bandcamp_urlFilter) - 
 - [EngTurtle/deluge2qbittorrent](https://github.com/EngTurtle/deluge2qbittorrent) - Utility to migrate torrents from Deluge to qBittorrent
 - [race-in/deluge-to-qbittorrent-transfer](https://github.com/race-in/deluge-to-qbittorrent-transfer) - Automatically transfer seeded torrents from Deluge to qBittorrent after a configurable seeding time.
 - [zakkarry/deluge-ltconfig](https://github.com/zakkarry/deluge-ltconfig) - ltConfig plugin for Deluge 2.x with High-Speed "zakkarry's advanced preset" built-in
@@ -595,7 +601,7 @@
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
-- [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - A collection of Docker templates and plugins for Unraid
+- [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - Read-only mirror of https://codeberg.org/nwithan8/unraid_templates
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
@@ -609,7 +615,6 @@
 - [Shnezzin/breitbandmessung](https://github.com/Shnezzin/breitbandmessung) - Perform breitbandmessung.de speedtests in an automated way
 - [andrewmcgr/klipper_tmc_autotune](https://github.com/andrewmcgr/klipper_tmc_autotune) - TMC stepper driver autotuning Klipper python extra
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
-- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [MajorPain007/homelab](https://github.com/MajorPain007/homelab) - 
@@ -766,7 +771,6 @@
 - [TheCaptain989/radarr-striptracks](https://github.com/TheCaptain989/radarr-striptracks) - A Docker Mod to Radarr/Sonarr to automatically remove unwanted audio and subtitle tracks
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [NatoBoram/docker-compose](https://github.com/NatoBoram/docker-compose) - My personal homelab
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [rogsme/yams](https://github.com/rogsme/yams) - yams: Yet Another Media Server. My personal media server, easy to install in a bash script. This repository is a mirror, original one in https://git.rogs.me/rogs/yams
 - [3DPrintDemon/Demon_Klipper_Essentials_Unified](https://github.com/3DPrintDemon/Demon_Klipper_Essentials_Unified) - Devilishly Good Klipper Macros!
@@ -858,6 +862,7 @@
 
 ## TypeScript 
 
+- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -867,6 +872,7 @@
 - [iongpt/LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp auto responder with LLM integration. It support OpenAI API and also local LLMs
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
@@ -922,7 +928,7 @@
 
 ## YAML 
 
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [onedr0p/home-service](https://github.com/onedr0p/home-service) - My home service stack running on a Beelink EQ12 with Fedora IoT. These podman services are supporting my home infrastructure including, DNS and Kubernetes clusters.
 
 
