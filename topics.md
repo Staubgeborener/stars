@@ -210,6 +210,7 @@
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
 - [whatsapp-bot](#whatsapp-bot)
@@ -225,6 +226,7 @@
 
 ## agent 
 
+- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
@@ -421,6 +423,9 @@
 
 ## claude-code 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## cli 
@@ -554,6 +559,7 @@
 
 ## developer-tools 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [ignatov/Haack](https://github.com/ignatov/Haack) - Hæck
@@ -1173,6 +1179,7 @@
 
 ## no-code 
 
+- [builtbyV/ai-website-builder](https://github.com/builtbyV/ai-website-builder) - Build beautiful websites by talking to AI - no coding required! Vibe coding with Claude Code, Gemini CLI, and OpenAI Codex CLI. Perfect for small businesses, freelancers, and anyone who wants a websit
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 
 ## node 
@@ -1230,6 +1237,8 @@
 
 ## others 
 
+- [WebSnifferHQ/disposable-email-domains](https://github.com/WebSnifferHQ/disposable-email-domains) - A curated and accurate list / database of domain names used to create temporary, throwaway and disposable email addresses.
+- [tenfoldmarc/website-builder-setup](https://github.com/tenfoldmarc/website-builder-setup) - Build professional animated websites with Claude Code — no coding needed. One install, three tools: UI/UX Pro Max + Framer Motion + 21st.dev. By @tenfoldmarc
 - [rctom16-bit/stickshredder](https://github.com/rctom16-bit/stickshredder) - Secure USB wipe tool for Windows with DIN 66399 / ISO 21964 structured deletion certificates. Free and open source alternative to Blancco/BitRaser for German IT admins.
 - [HauZ22/Bandcamp_urlFilter](https://github.com/HauZ22/Bandcamp_urlFilter) - 
 - [EngTurtle/deluge2qbittorrent](https://github.com/EngTurtle/deluge2qbittorrent) - Utility to migrate torrents from Deluge to qBittorrent
@@ -1675,6 +1684,7 @@
 
 ## prompt-engineering 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
 ## pwa 
@@ -1985,7 +1995,7 @@
 
 ## tui 
 
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 
 ## twitter 
@@ -2064,6 +2074,10 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+## web-development 
+
+- [builtbyV/ai-website-builder](https://github.com/builtbyV/ai-website-builder) - Build beautiful websites by talking to AI - no coding required! Vibe coding with Claude Code, Gemini CLI, and OpenAI Codex CLI. Perfect for small businesses, freelancers, and anyone who wants a websit
 
 ## webapp 
 
