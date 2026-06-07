@@ -236,7 +236,7 @@
 
 ## agents 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
 ## ai 
@@ -261,7 +261,7 @@
 
 ## ai-agents 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -441,7 +441,7 @@
 ## claude-code 
 
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -643,7 +643,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
@@ -804,7 +804,6 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng) - A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
-- [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
@@ -909,6 +908,7 @@
 
 ## home-assistant 
 
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
@@ -971,6 +971,7 @@
 
 ## iot 
 
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [dgiese/dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
@@ -1020,9 +1021,8 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
-- [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
@@ -1050,7 +1050,7 @@
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -1245,7 +1245,7 @@
 
 ## npm 
 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## numpy 
@@ -1286,6 +1286,8 @@
 
 ## others 
 
+- [blocksecteam/metasleuth_resources](https://github.com/blocksecteam/metasleuth_resources) - A collection of investigation reports analyzed with MetaSleuth, a crypto fund flow visualization and analysis tool powered by @blocksecteam.
+- [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
 - [TechClusterHQ/qbt-portchecker](https://github.com/TechClusterHQ/qbt-portchecker) - 
 - [TRaSH-/qui_workflows](https://github.com/TRaSH-/qui_workflows) - Based on BZ workflow, but shortened the noHL seeding time to 21 days and added optional pre-information tags.
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
@@ -1445,6 +1447,7 @@
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
+- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [tzerber/docker_nc_psql_nginx_ssl](https://github.com/tzerber/docker_nc_psql_nginx_ssl) - Nextcloud fpm with PostgreSQL and nginx, nginx-proxy-manager with LetsEncrypt example on amd64 Linux
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
@@ -1772,7 +1775,6 @@
 - [ronibandini/reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -1891,6 +1893,7 @@
 
 ## security 
 
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
@@ -2068,7 +2071,7 @@
 ## typescript 
 
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
