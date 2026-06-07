@@ -80,7 +80,6 @@
 - [sp4cerat/Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) - Mesh triangle reduction using quadrics
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
-- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [himalayanelixir/arduino-usb-drivers](https://github.com/himalayanelixir/arduino-usb-drivers) - ✍️ Signed drivers for CH340 and CH341 USB controllers
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -277,11 +276,11 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
-- [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
+- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something.
@@ -428,6 +427,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [valentinLampriere/Isaac_Sewing-Machine](https://github.com/valentinLampriere/Isaac_Sewing-Machine) - 
 - [tiagovla/.dotfiles](https://github.com/tiagovla/.dotfiles) - 
@@ -465,6 +465,8 @@
 
 ## Others 
 
+- [blocksecteam/metasleuth_resources](https://github.com/blocksecteam/metasleuth_resources) - A collection of investigation reports analyzed with MetaSleuth, a crypto fund flow visualization and analysis tool powered by @blocksecteam.
+- [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
 - [OffgridOps/RedOps-Tools](https://github.com/OffgridOps/RedOps-Tools) - A curated list of Red Team tools for offensive security, adversary simulation, and red teaming operations.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [WebSnifferHQ/disposable-email-domains](https://github.com/WebSnifferHQ/disposable-email-domains) - A curated and accurate list / database of domain names used to create temporary, throwaway and disposable email addresses.
@@ -581,6 +583,8 @@
 
 ## Python 
 
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+- [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [TRaSH-/qui_workflows](https://github.com/TRaSH-/qui_workflows) - Based on BZ workflow, but shortened the noHL seeding time to 21 days and added optional pre-information tags.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing
@@ -648,7 +652,6 @@
 - [RickGeex/ProxyLogon](https://github.com/RickGeex/ProxyLogon) - ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have al
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [DraftShift/StealthChanger](https://github.com/DraftShift/StealthChanger) - Tool changing system for Vorons and other front mount printer motion systems, not just stealthburner.
@@ -806,6 +809,7 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) - Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [Esoterical/voron_canbus](https://github.com/Esoterical/voron_canbus) - 
 - [mainsail-crew/sonar](https://github.com/mainsail-crew/sonar) - Sonar is a small Keepalive daemon for MainsailOS.
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
@@ -886,7 +890,7 @@
 ## TypeScript 
 
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
