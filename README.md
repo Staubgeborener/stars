@@ -124,6 +124,7 @@
 
 ## C# # 
 
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [ahza-code/jellyfin-plugin-ronin](https://github.com/ahza-code/jellyfin-plugin-ronin) - An Anime toolkit to enhance Anime handling in Jellyfin. Automates season reorganization, tracks filler/canon episodes, and more.
 - [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
 - [luall0/jellynext](https://github.com/luall0/jellynext) - A Jellyfin plugin that creates per-user virtual libraries for personalized Trakt recommendations and new seasons. Seamlessly integrates with Jellyseerr/Radarr/Sonarr/CustomWebhook to trigger one-click
@@ -468,6 +469,7 @@
 
 ## Others 
 
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [blocksecteam/metasleuth_resources](https://github.com/blocksecteam/metasleuth_resources) - A collection of investigation reports analyzed with MetaSleuth, a crypto fund flow visualization and analysis tool powered by @blocksecteam.
 - [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
 - [OffgridOps/RedOps-Tools](https://github.com/OffgridOps/RedOps-Tools) - A curated list of Red Team tools for offensive security, adversary simulation, and red teaming operations.
@@ -575,7 +577,6 @@
 ## PowerShell 
 
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a (small) bunch of scripts for Starr apps
-- [recyclarr/config-templates](https://github.com/recyclarr/config-templates) - Premade Configuration YAML Files for Recyclarr
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -643,6 +644,7 @@
 - [andrewmcgr/klipper_tmc_autotune](https://github.com/andrewmcgr/klipper_tmc_autotune) - TMC stepper driver autotuning Klipper python extra
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Optiscaler upscaling and frame gen mods in game mode
+- [recyclarr/config-templates](https://github.com/recyclarr/config-templates) - Premade Configuration YAML Files for Recyclarr
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [MajorPain007/homelab](https://github.com/MajorPain007/homelab) - 
@@ -896,6 +898,7 @@
 
 ## TypeScript 
 
+- [jabloink/seerr](https://github.com/jabloink/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [xpsony/UmlautAdaptarrEX](https://github.com/xpsony/UmlautAdaptarrEX) - UmlautAdaptarrEX presents itself to the *arrs as an indexer, sits between the *arrs and the real indexers, and corrects both searches and results so that releases with umlauts or German titles are rel
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
