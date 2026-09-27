@@ -59,7 +59,6 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
-- [Zig](#zig)
 
 ## Arduino 
 
@@ -273,7 +272,7 @@
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [harness/drone-cli](https://github.com/harness/drone-cli) - Command Line Tools for Drone CI
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
@@ -335,6 +334,7 @@
 
 ## JavaScript 
 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -428,6 +428,7 @@
 
 ## Lua 
 
+- [and-rs/nvim](https://github.com/and-rs/nvim) - im fast
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -473,6 +474,7 @@
 
 ## Others 
 
+- [Omnibus-Type/Archivo](https://github.com/Omnibus-Type/Archivo) - Archivo is a grotesque font reminiscent of late nineteenth century.
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [blocksecteam/metasleuth_resources](https://github.com/blocksecteam/metasleuth_resources) - A collection of investigation reports analyzed with MetaSleuth, a crypto fund flow visualization and analysis tool powered by @blocksecteam.
 - [GeekMagicClock/smalltv-ultra](https://github.com/GeekMagicClock/smalltv-ultra) - Ultra version firmware of GeekMagic smalltv
@@ -592,6 +594,8 @@
 
 ## Python 
 
+- [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - An LLM-first SEO analysis skill for Antigravity, Codex, Claude with 16 specialized sub-skills, 10 specialist agents, and 88 optional utility scripts used as evidence collectors.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 - [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
@@ -611,11 +615,11 @@
 - [mathis-brebion/mic-reveal](https://github.com/mathis-brebion/mic-reveal) - Reveal printer Machine Identification Code (MIC) yellow dots in scanned documents using OpenCV.
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [pasadoorian/MiTMBeast](https://github.com/pasadoorian/MiTMBeast) - 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [Peter-SB/n8n-ai-instagram-scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper) - Self hosted AI workflow for scraping Instagram Reels (audio and description). Extracting, summarising and categorising, then storing all relevant info for quick viewing later.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [khromov/stl-fit](https://github.com/khromov/stl-fit) - 
 - [InJeCTrL/NeedFree](https://github.com/InJeCTrL/NeedFree) - Crawl 100%-discount games on steam
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -982,10 +986,6 @@
 
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [onedr0p/home-service](https://github.com/onedr0p/home-service) - My home service stack running on a Beelink EQ12 with Fedora IoT. These podman services are supporting my home infrastructure including, DNS and Kubernetes clusters.
-
-## Zig 
-
-- [and-rs/nvim](https://github.com/and-rs/nvim) - im fast
 
 
 ## License
