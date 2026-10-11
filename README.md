@@ -94,7 +94,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- [chiaki-ng/chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [webhdx/PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) - AltServer for AltStore, but on-device
@@ -126,6 +126,7 @@
 
 ## C# # 
 
+- [Rinn/jellyfin-plugin-hwprobe](https://github.com/Rinn/jellyfin-plugin-hwprobe) - Device-verified hardware transcode detection for Jellyfin
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [ahza-code/jellyfin-plugin-ronin](https://github.com/ahza-code/jellyfin-plugin-ronin) - An Anime toolkit to enhance Anime handling in Jellyfin. Automates season reorganization, tracks filler/canon episodes, and more.
@@ -257,6 +258,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [Turbootzz/vaultwarden-secrets-api](https://github.com/Turbootzz/vaultwarden-secrets-api) - Self-hosted secrets API for Vaultwarden
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -335,6 +337,7 @@
 
 ## JavaScript 
 
+- [MiniDigger/thelounge-plugin-shortcuts](https://github.com/MiniDigger/thelounge-plugin-shortcuts) - Simple plugin for the irc client thelounge that allows you to register shortcuts/aliases for commands
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -354,7 +357,7 @@
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -417,6 +420,7 @@
 
 ## Kotlin 
 
+- [spocky/projectivy-plugin-wallpaper-overflight](https://github.com/spocky/projectivy-plugin-wallpaper-overflight) - 
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
 
@@ -475,6 +479,8 @@
 
 ## Others 
 
+- [SicMundus86/ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack) - Custom made icon pack for projectivy launcher
+- [SomeOrdinarySanya/jackbox-online-patch](https://github.com/SomeOrdinarySanya/jackbox-online-patch) - A LayeredFS mod to bypass requirement to be connected to Nintendo's servers when playing Jackbox games.
 - [Omnibus-Type/Archivo](https://github.com/Omnibus-Type/Archivo) - Archivo is a grotesque font reminiscent of late nineteenth century.
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [blocksecteam/metasleuth_resources](https://github.com/blocksecteam/metasleuth_resources) - A collection of investigation reports analyzed with MetaSleuth, a crypto fund flow visualization and analysis tool powered by @blocksecteam.
@@ -595,6 +601,8 @@
 
 ## Python 
 
+- [iManunator/wallpaparr](https://github.com/iManunator/wallpaparr) - Self-hosted cinematic live wallpapers for the Projectivy Android TV launcher, generated from Jellyfin/Jellyseerr.
+- [ItsssssJack/SlopMonster](https://github.com/ItsssssJack/SlopMonster) - Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.
 - [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - An LLM-first SEO analysis skill for Antigravity, Codex, Claude with 16 specialized sub-skills, 10 specialist agents, and 88 optional utility scripts used as evidence collectors.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
@@ -897,7 +905,6 @@
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [jamf/aftermath](https://github.com/jamf/aftermath) - Aftermath is a free macOS IR framework
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [keepassium/KeePassium](https://github.com/keepassium/KeePassium) - KeePass-compatible password manager for iOS and macOS
@@ -945,7 +952,7 @@
 - [mbserran/node-red-contrib-tapo-new-api](https://github.com/mbserran/node-red-contrib-tapo-new-api) - Node to manage Tapo Tplink devices with the new api
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
