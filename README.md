@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [D](#d)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Emacs Lisp](#emacs-lisp)
@@ -21,12 +22,12 @@
 - [GAP](#gap)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Lua](#lua)
@@ -224,6 +225,10 @@
 
 - [Dadoum/Provision](https://github.com/Dadoum/Provision) - Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 
+## Dart 
+
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
+
 ## Dockerfile 
 
 - [TechClusterHQ/qbt-portchecker](https://github.com/TechClusterHQ/qbt-portchecker) - 
@@ -308,6 +313,10 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [benjojo/dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+
+## HCL 
+
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 
 ## HTML 
 
@@ -412,10 +421,6 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [YourTechBud/ytb-practical-guide](https://github.com/YourTechBud/ytb-practical-guide) - A guide to try out examples shown in YourTechBud Codes YouTube Channel
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-
-## Just 
-
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -615,8 +620,8 @@
 - [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [TRaSH-/qui_workflows](https://github.com/TRaSH-/qui_workflows) - Based on BZ workflow, but shortened the noHL seeding time to 21 days and added optional pre-information tags.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 96.2% fewer tokens per lookup than grep-and-read on our 15-lookup benchmark. Works with Claude
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 94.5% fewer tokens per lookup on average than grep-and-read on our 15-lookup benchmark. Works 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [rctom16-bit/stickshredder](https://github.com/rctom16-bit/stickshredder) - Secure USB wipe tool for Windows with DIN 66399 / ISO 21964 structured deletion certificates. Free and open source alternative to Blancco/BitRaser for German IT admins.
 - [EngTurtle/deluge2qbittorrent](https://github.com/EngTurtle/deluge2qbittorrent) - Utility to migrate torrents from Deluge to qBittorrent
@@ -674,7 +679,6 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [andreas-mausch/grafana-prometheus-loki-alertmanager-setup](https://github.com/andreas-mausch/grafana-prometheus-loki-alertmanager-setup) - Grafana setup with a typical logging and alerting stack
 - [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer's maximum acceleration/velocity
 - [Casualtek/Ransomchats](https://github.com/Casualtek/Ransomchats) - 
@@ -823,7 +827,7 @@
 
 ## Scheme 
 
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Now Updated to Debian 13) se
 
 ## Shell 
 
@@ -833,6 +837,7 @@
 - [TheCaptain989/radarr-striptracks](https://github.com/TheCaptain989/radarr-striptracks) - A Docker Mod to Radarr/Sonarr to automatically remove unwanted audio and subtitle tracks
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [NatoBoram/docker-compose](https://github.com/NatoBoram/docker-compose) - My personal homelab
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [rogsme/yams](https://github.com/rogsme/yams) - yams: Yet Another Media Server. My personal media server, easy to install in a bash script. This repository is a mirror, original one in https://git.rogs.me/rogs/yams
 - [3DPrintDemon/Demon_Klipper_Essentials_Unified](https://github.com/3DPrintDemon/Demon_Klipper_Essentials_Unified) - Devilishly Good Klipper Macros!
@@ -947,7 +952,7 @@
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -972,7 +977,7 @@
 - [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [konradknitter/homebridge-philips-android-tv](https://github.com/konradknitter/homebridge-philips-android-tv) - Homebridge module for the Philips Android TV
-- [homebridge/HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
+- [homebridge/hap-nodejs](https://github.com/homebridge/hap-nodejs) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [homebridge/homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
