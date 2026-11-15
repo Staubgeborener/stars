@@ -127,6 +127,7 @@
 
 ## C# # 
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [wiresock/WireSockUI](https://github.com/wiresock/WireSockUI) - Lightweight Windows GUI companion for the WireSock Core SDK CLI
 - [Rinn/jellyfin-plugin-hwprobe](https://github.com/Rinn/jellyfin-plugin-hwprobe) - Device-verified hardware transcode detection for Jellyfin
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
@@ -172,7 +173,7 @@
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
 - [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [FormerLurker/ArcWelderLib](https://github.com/FormerLurker/ArcWelderLib) - A collection of projects used to convert G0/G1 commands to G2/G3 commands.
 - [lyckantropen/moonlight_hdr_launcher](https://github.com/lyckantropen/moonlight_hdr_launcher) - Launch anything in HDR mode using Moonlight
@@ -316,7 +317,7 @@
 
 ## HCL 
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated self-hosting platform, from empty disks to running services with a single command
 
 ## HTML 
 
@@ -364,10 +365,10 @@
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [vouiren/repo.me](https://github.com/vouiren/repo.me) - a modern apt repository template built by the community
@@ -437,6 +438,7 @@
 
 ## Lua 
 
+- [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
 - [and-rs/nvim](https://github.com/and-rs/nvim) - im fast
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
@@ -620,7 +622,7 @@
 - [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [TRaSH-/qui_workflows](https://github.com/TRaSH-/qui_workflows) - Based on BZ workflow, but shortened the noHL seeding time to 21 days and added optional pre-information tags.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 94.5% fewer tokens per lookup on average than grep-and-read on our 15-lookup benchmark. Works 
+- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 96.2% fewer tokens per lookup on average than grep-and-read on our 15-lookup benchmark. Works 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [rctom16-bit/stickshredder](https://github.com/rctom16-bit/stickshredder) - Secure USB wipe tool for Windows with DIN 66399 / ISO 21964 structured deletion certificates. Free and open source alternative to Blancco/BitRaser for German IT admins.
@@ -655,7 +657,7 @@
 - [TengerTechnologies/Smoothificator](https://github.com/TengerTechnologies/Smoothificator) - A script that enables you to 3D print with different Layerheights on the inside and outside of your print
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [nwithan8/unraid_templates](https://github.com/nwithan8/unraid_templates) - Read-only mirror of https://codeberg.org/nwithan8/unraid_templates
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
@@ -831,6 +833,8 @@
 
 ## Shell 
 
+- [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [GhostlyDark/MK64-Reloaded](https://github.com/GhostlyDark/MK64-Reloaded) - Mario Kart 64 HD for GLideN64, rt64 (Recomp), Dolphin and SpaghettiKart
 - [TechClusterHQ/qbt-slowban](https://github.com/TechClusterHQ/qbt-slowban) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -851,7 +855,6 @@
 - [Esoterical/voron_canbus](https://github.com/Esoterical/voron_canbus) - 
 - [mainsail-crew/sonar](https://github.com/mainsail-crew/sonar) - Sonar is a small Keepalive daemon for MainsailOS.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
-- [maxhu08/dotfiles](https://github.com/maxhu08/dotfiles) - 💎 my dotfiles
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [eduncan911/dotfiles](https://github.com/eduncan911/dotfiles) - Linux and macOS dotfiles Harmony
@@ -951,12 +954,12 @@
 - [iongpt/LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp auto responder with LLM integration. It support OpenAI API and also local LLMs
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator) - Web app that provides basic navigation and annotation of ATT&CK matrices
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
